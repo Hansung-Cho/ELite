@@ -5,7 +5,7 @@ import open3d as o3d
 from tqdm import trange
 from scipy.spatial import KDTree
 import psutil, os
-import time
+
 
 from utils.session import Session
 from utils.session_map import SessionMap
@@ -58,17 +58,8 @@ class MapRemover:
         anchor_eph_l = np.ones(len(anchor_points.points)) * 0.5 # initial value
         anchor_kdtree = KDTree(np.asarray(anchor_points.points))
 
-        voxel_size = 0.1  # free_space_samples와 동일한 voxel 크기
-        threshold = self.std_dev_f * np.sqrt(np.log(self.alpha/self.beta))
-
-        noneffect_cache = {}  # 먼 free point → inds만 저장
-
-        def voxel_key(pt):
-            return (int(pt[0] / voxel_size),
-                    int(pt[1] / voxel_size),
-                    int(pt[2] / voxel_size))
-
         logger.info(f"Updating anchor local ephemerality")
+                
         for i in trange(0, len(self.session_loader), p_dor["stride"], desc="Updating \u03B5_l", ncols=100):
 
             logger.debug(f"Processing scan {i + 1}/{len(self.session_loader)}")
@@ -93,98 +84,26 @@ class MapRemover:
             free_space_samples = free_space_samples.reshape(-1, 3)
             free_space_samples_o3d = o3d.geometry.PointCloud()
             free_space_samples_o3d.points = o3d.utility.Vector3dVector(free_space_samples)
-            free_space_samples_o3d = free_space_samples_o3d.voxel_down_sample(voxel_size=0.1)
+            free_space_samples_o3d = free_space_samples_o3d.voxel_down_sample(voxel_size=p_dor["free_voxel_size"])
             free_space_samples = np.asarray(free_space_samples_o3d.points)
+            logger.info(f"Free space samples at scan {i+1} : {free_space_samples.shape[0]}")
+            dists, inds = anchor_kdtree.query(free_space_samples, k=p_dor["num_k"])
             
-            # 파라미터
-            batch_size = 20000  # 1~5만 사이로 조정 가능
-
-            cache_miss = 0
-            cache_noneffect_hit = 0
-
-            # 1. 캐시 확인: hit이면 바로 업데이트, miss이면 모아서 batch query
-            pts_to_query = []
-            keys_to_query = []
-
-            for pt in free_space_samples:
-                key = voxel_key(pt)
-                if key in noneffect_cache:
-                    cache_noneffect_hit += 1
-                    inds = noneffect_cache[key]
-                    for ind in inds:
-                        eph_l_prev = anchor_eph_l[ind]
-                        update_rate = self.alpha
-                        eph_l_new = eph_l_prev * update_rate / (
-                            eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
-                        )
-                        anchor_eph_l[ind] = eph_l_new
-                else:
-                    cache_miss += 1
-                    pts_to_query.append(pt)
-                    keys_to_query.append(key)
-
-            # 2. batch query (chunk 단위)
-            free_start_time = time.perf_counter()
-
-            if len(pts_to_query) > 0:
-                pts_to_query = np.array(pts_to_query)
-                num_pts = len(pts_to_query)
-
-                for start in range(0, num_pts, batch_size):
-                    end = min(start + batch_size, num_pts)
-                    pts_chunk = pts_to_query[start:end]
-                    keys_chunk = keys_to_query[start:end]
-
-                    # KDTree batch query
-                    dists_chunk, inds_chunk = anchor_kdtree.query(
-                        pts_chunk, k=p_dor["num_k"]
-                    )
-
-                    # query 결과 처리
-                    for key, dists, inds in zip(keys_chunk, dists_chunk, inds_chunk):
-                        dmin = np.min(dists)
-
-                        if dmin > threshold:
-                            # noneffect_cache에 등록
-                            noneffect_cache[key] = inds
-                            for ind in inds:
-                                eph_l_prev = anchor_eph_l[ind]
-                                update_rate = self.alpha
-                                eph_l_new = eph_l_prev * update_rate / (
-                                    eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
-                                )
-                                anchor_eph_l[ind] = eph_l_new
-                        else:
-                            # 가까운 점 업데이트
-                            for dist, ind in zip(dists, inds):
-                                eph_l_prev = anchor_eph_l[ind]
-                                update_rate = np.maximum(
-                                    self.alpha * (1 + np.exp(-1 * dist**2 / self.std_dev_f)) - self.beta,
-                                    self.alpha,
-                                )
-                                eph_l_new = eph_l_prev * update_rate / (
-                                    eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
-                                )
-                                anchor_eph_l[ind] = eph_l_new
-
-            free_end_time = time.perf_counter()
-
-            # 3. 로깅
-            total = cache_miss + cache_noneffect_hit
-            if total > 0:
-                logger.debug(
-                    f"noneffect_hit={cache_noneffect_hit/total:.1%}, "
-                    f"miss={cache_miss/total:.1%}"
+            
+            for j in range(len(dists)):
+                dist = dists[j]
+                eph_l_prev = anchor_eph_l[inds[j]]
+                update_rate = np.maximum(self.alpha * (1 + np.exp(-1 * dist**2 / self.std_dev_f)) - self.beta, self.alpha) # Eq. 5
+                eph_l_new = eph_l_prev * update_rate / (
+                    eph_l_prev * update_rate + (1 - eph_l_prev) * (1 - update_rate)
                 )
-                process = psutil.Process(os.getpid())
-                mem_mb = process.memory_info().rss / (1024**2)
-                logger.info(
-                    f"Cache size : noneffect={len(noneffect_cache)}  |  Memory usage: {mem_mb:.2f} MB"
-                )
-                logger.info(
-                    f"Free space update time: {free_end_time - free_start_time:.2f} s"
-                )
-                logger.info("")
+                anchor_eph_l[inds[j]] = eph_l_new
+        
+            process = psutil.Process(os.getpid())
+            mem_mb = process.memory_info().rss / (1024**2)
+            logger.info(
+                f"Memory usage: {mem_mb:.2f} MB"
+            )
 
         # 3) Propagate anchor local ephemerality to session map
         distances, indices = anchor_kdtree.query(np.asarray(session_map.points), k=p_dor["num_k"])
