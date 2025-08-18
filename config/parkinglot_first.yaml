@@ -15,6 +15,7 @@ alignment:
 
 dynamic_object_removal:
   anchor_voxel_size: 0.2
+  free_voxel_size: 0.2
   stride: 3
   num_k: 3 # 6
   max_ratio: 0.9
@@ -22,9 +23,9 @@ dynamic_object_removal:
   num_samples: 30
   dynamic_threshold: 0.5
   save_cleaned_session_map: true
-  viz_cleaned_session_map: true
+  viz_cleaned_session_map: false
   save_static_dynamic_map: true
-  viz_static_dynamic_map: true
+  viz_static_dynamic_map: false
 
 map_update:
   voxel_size: 0.2
