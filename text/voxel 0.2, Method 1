@@ -1,0 +1,1176 @@
+2025-08-06 15:09:40 | DEBUG | Processing scan 1/703
+2025-08-06 15:10:06 | DEBUG | noneffect_hit=0.0%, miss=100.0%
+2025-08-06 15:10:06 | INFO | Cache size : noneffect=432040  |  Memory usage: 2884.06 MB
+2025-08-06 15:10:06 | INFO | Free space update time: 24.49 s
+2025-08-06 15:10:06 | INFO | 
+2025-08-06 15:10:06 | DEBUG | Processing scan 4/703
+2025-08-06 15:10:27 | DEBUG | noneffect_hit=32.1%, miss=67.9%
+2025-08-06 15:10:27 | INFO | Cache size : noneffect=730638  |  Memory usage: 2947.31 MB
+2025-08-06 15:10:27 | INFO | Free space update time: 19.15 s
+2025-08-06 15:10:27 | INFO | 
+2025-08-06 15:10:27 | DEBUG | Processing scan 7/703
+2025-08-06 15:10:44 | DEBUG | noneffect_hit=46.5%, miss=53.5%
+2025-08-06 15:10:44 | INFO | Cache size : noneffect=958033  |  Memory usage: 3001.06 MB
+2025-08-06 15:10:44 | INFO | Free space update time: 15.25 s
+2025-08-06 15:10:44 | INFO | 
+2025-08-06 15:10:44 | DEBUG | Processing scan 10/703
+2025-08-06 15:11:00 | DEBUG | noneffect_hit=51.6%, miss=48.4%
+2025-08-06 15:11:00 | INFO | Cache size : noneffect=1165962  |  Memory usage: 3049.81 MB
+2025-08-06 15:11:00 | INFO | Free space update time: 14.20 s
+2025-08-06 15:11:00 | INFO | 
+2025-08-06 15:11:00 | DEBUG | Processing scan 13/703
+2025-08-06 15:11:17 | DEBUG | noneffect_hit=51.7%, miss=48.3%
+2025-08-06 15:11:17 | INFO | Cache size : noneffect=1375323  |  Memory usage: 3101.31 MB
+2025-08-06 15:11:17 | INFO | Free space update time: 14.17 s
+2025-08-06 15:11:17 | INFO | 
+2025-08-06 15:11:17 | DEBUG | Processing scan 16/703
+2025-08-06 15:11:32 | DEBUG | noneffect_hit=56.4%, miss=43.6%
+2025-08-06 15:11:32 | INFO | Cache size : noneffect=1569904  |  Memory usage: 3149.06 MB
+2025-08-06 15:11:32 | INFO | Free space update time: 12.82 s
+2025-08-06 15:11:32 | INFO | 
+2025-08-06 15:11:32 | DEBUG | Processing scan 19/703
+2025-08-06 15:11:48 | DEBUG | noneffect_hit=60.4%, miss=39.6%
+2025-08-06 15:11:48 | INFO | Cache size : noneffect=1755486  |  Memory usage: 3194.81 MB
+2025-08-06 15:11:48 | INFO | Free space update time: 14.38 s
+2025-08-06 15:11:48 | INFO | 
+2025-08-06 15:11:48 | DEBUG | Processing scan 22/703
+2025-08-06 15:12:05 | DEBUG | noneffect_hit=62.2%, miss=37.8%
+2025-08-06 15:12:05 | INFO | Cache size : noneffect=1940036  |  Memory usage: 3241.05 MB
+2025-08-06 15:12:05 | INFO | Free space update time: 13.73 s
+2025-08-06 15:12:05 | INFO | 
+2025-08-06 15:12:05 | DEBUG | Processing scan 25/703
+2025-08-06 15:12:20 | DEBUG | noneffect_hit=63.5%, miss=36.5%
+2025-08-06 15:12:20 | INFO | Cache size : noneffect=2130005  |  Memory usage: 3287.30 MB
+2025-08-06 15:12:20 | INFO | Free space update time: 13.23 s
+2025-08-06 15:12:20 | INFO | 
+2025-08-06 15:12:20 | DEBUG | Processing scan 28/703
+2025-08-06 15:12:35 | DEBUG | noneffect_hit=66.7%, miss=33.3%
+2025-08-06 15:12:35 | INFO | Cache size : noneffect=2307098  |  Memory usage: 3329.80 MB
+2025-08-06 15:12:35 | INFO | Free space update time: 11.91 s
+2025-08-06 15:12:35 | INFO | 
+2025-08-06 15:12:35 | DEBUG | Processing scan 31/703
+2025-08-06 15:12:48 | DEBUG | noneffect_hit=69.5%, miss=30.5%
+2025-08-06 15:12:48 | INFO | Cache size : noneffect=2461889  |  Memory usage: 3368.80 MB
+2025-08-06 15:12:48 | INFO | Free space update time: 10.41 s
+2025-08-06 15:12:48 | INFO | 
+2025-08-06 15:12:48 | DEBUG | Processing scan 34/703
+2025-08-06 15:13:01 | DEBUG | noneffect_hit=71.5%, miss=28.5%
+2025-08-06 15:13:01 | INFO | Cache size : noneffect=2606031  |  Memory usage: 3403.80 MB
+2025-08-06 15:13:01 | INFO | Free space update time: 11.13 s
+2025-08-06 15:13:01 | INFO | 
+2025-08-06 15:13:01 | DEBUG | Processing scan 37/703
+2025-08-06 15:13:13 | DEBUG | noneffect_hit=73.0%, miss=27.0%
+2025-08-06 15:13:13 | INFO | Cache size : noneffect=2736506  |  Memory usage: 3435.80 MB
+2025-08-06 15:13:13 | INFO | Free space update time: 9.32 s
+2025-08-06 15:13:13 | INFO | 
+2025-08-06 15:13:13 | DEBUG | Processing scan 40/703
+2025-08-06 15:13:24 | DEBUG | noneffect_hit=72.9%, miss=27.1%
+2025-08-06 15:13:24 | INFO | Cache size : noneffect=2864522  |  Memory usage: 3466.05 MB
+2025-08-06 15:13:24 | INFO | Free space update time: 8.38 s
+2025-08-06 15:13:24 | INFO | 
+2025-08-06 15:13:24 | DEBUG | Processing scan 43/703
+2025-08-06 15:13:35 | DEBUG | noneffect_hit=72.8%, miss=27.2%
+2025-08-06 15:13:35 | INFO | Cache size : noneffect=2986859  |  Memory usage: 3497.30 MB
+2025-08-06 15:13:35 | INFO | Free space update time: 8.50 s
+2025-08-06 15:13:35 | INFO | 
+2025-08-06 15:13:35 | DEBUG | Processing scan 46/703
+2025-08-06 15:13:46 | DEBUG | noneffect_hit=74.0%, miss=26.0%
+2025-08-06 15:13:46 | INFO | Cache size : noneffect=3111334  |  Memory usage: 3526.80 MB
+2025-08-06 15:13:46 | INFO | Free space update time: 8.46 s
+2025-08-06 15:13:46 | INFO | 
+2025-08-06 15:13:46 | DEBUG | Processing scan 49/703
+2025-08-06 15:13:57 | DEBUG | noneffect_hit=74.0%, miss=26.0%
+2025-08-06 15:13:57 | INFO | Cache size : noneffect=3234337  |  Memory usage: 3557.30 MB
+2025-08-06 15:13:57 | INFO | Free space update time: 8.62 s
+2025-08-06 15:13:57 | INFO | 
+2025-08-06 15:13:57 | DEBUG | Processing scan 52/703
+2025-08-06 15:14:07 | DEBUG | noneffect_hit=72.9%, miss=27.1%
+2025-08-06 15:14:07 | INFO | Cache size : noneffect=3353633  |  Memory usage: 3587.80 MB
+2025-08-06 15:14:07 | INFO | Free space update time: 8.70 s
+2025-08-06 15:14:07 | INFO | 
+2025-08-06 15:14:07 | DEBUG | Processing scan 55/703
+2025-08-06 15:14:19 | DEBUG | noneffect_hit=69.8%, miss=30.2%
+2025-08-06 15:14:19 | INFO | Cache size : noneffect=3482724  |  Memory usage: 3619.55 MB
+2025-08-06 15:14:19 | INFO | Free space update time: 9.90 s
+2025-08-06 15:14:19 | INFO | 
+2025-08-06 15:14:19 | DEBUG | Processing scan 58/703
+2025-08-06 15:14:32 | DEBUG | noneffect_hit=66.4%, miss=33.6%
+2025-08-06 15:14:32 | INFO | Cache size : noneffect=3627192  |  Memory usage: 3655.05 MB
+2025-08-06 15:14:32 | INFO | Free space update time: 9.71 s
+2025-08-06 15:14:32 | INFO | 
+2025-08-06 15:14:32 | DEBUG | Processing scan 61/703
+2025-08-06 15:14:44 | DEBUG | noneffect_hit=65.2%, miss=34.8%
+2025-08-06 15:14:44 | INFO | Cache size : noneffect=3777230  |  Memory usage: 3692.80 MB
+2025-08-06 15:14:44 | INFO | Free space update time: 10.71 s
+2025-08-06 15:14:44 | INFO | 
+2025-08-06 15:14:44 | DEBUG | Processing scan 64/703
+2025-08-06 15:14:59 | DEBUG | noneffect_hit=60.3%, miss=39.7%
+2025-08-06 15:14:59 | INFO | Cache size : noneffect=3951895  |  Memory usage: 3736.80 MB
+2025-08-06 15:14:59 | INFO | Free space update time: 12.55 s
+2025-08-06 15:14:59 | INFO | 
+2025-08-06 15:14:59 | DEBUG | Processing scan 67/703
+2025-08-06 15:15:15 | DEBUG | noneffect_hit=56.9%, miss=43.1%
+2025-08-06 15:15:15 | INFO | Cache size : noneffect=4148538  |  Memory usage: 3786.05 MB
+2025-08-06 15:15:15 | INFO | Free space update time: 14.38 s
+2025-08-06 15:15:15 | INFO | 
+2025-08-06 15:15:15 | DEBUG | Processing scan 70/703
+2025-08-06 15:15:33 | DEBUG | noneffect_hit=55.0%, miss=45.0%
+2025-08-06 15:15:33 | INFO | Cache size : noneffect=4365357  |  Memory usage: 3839.30 MB
+2025-08-06 15:15:33 | INFO | Free space update time: 15.78 s
+2025-08-06 15:15:33 | INFO | 
+2025-08-06 15:15:33 | DEBUG | Processing scan 73/703
+2025-08-06 15:15:50 | DEBUG | noneffect_hit=57.2%, miss=42.8%
+2025-08-06 15:15:50 | INFO | Cache size : noneffect=4585554  |  Memory usage: 3890.80 MB
+2025-08-06 15:15:50 | INFO | Free space update time: 14.58 s
+2025-08-06 15:15:50 | INFO | 
+2025-08-06 15:15:50 | DEBUG | Processing scan 76/703
+2025-08-06 15:16:08 | DEBUG | noneffect_hit=52.4%, miss=47.6%
+2025-08-06 15:16:08 | INFO | Cache size : noneffect=4817500  |  Memory usage: 3950.55 MB
+2025-08-06 15:16:08 | INFO | Free space update time: 15.48 s
+2025-08-06 15:16:08 | INFO | 
+2025-08-06 15:16:08 | DEBUG | Processing scan 79/703
+2025-08-06 15:16:25 | DEBUG | noneffect_hit=54.0%, miss=46.0%
+2025-08-06 15:16:25 | INFO | Cache size : noneffect=5038845  |  Memory usage: 4057.81 MB
+2025-08-06 15:16:25 | INFO | Free space update time: 15.07 s
+2025-08-06 15:16:25 | INFO | 
+2025-08-06 15:16:25 | DEBUG | Processing scan 82/703
+2025-08-06 15:16:39 | DEBUG | noneffect_hit=56.6%, miss=43.4%
+2025-08-06 15:16:39 | INFO | Cache size : noneffect=5240882  |  Memory usage: 4107.81 MB
+2025-08-06 15:16:39 | INFO | Free space update time: 12.66 s
+2025-08-06 15:16:39 | INFO | 
+2025-08-06 15:16:39 | DEBUG | Processing scan 85/703
+2025-08-06 15:16:53 | DEBUG | noneffect_hit=60.0%, miss=40.0%
+2025-08-06 15:16:53 | INFO | Cache size : noneffect=5415479  |  Memory usage: 4151.56 MB
+2025-08-06 15:16:53 | INFO | Free space update time: 11.76 s
+2025-08-06 15:16:53 | INFO | 
+2025-08-06 15:16:53 | DEBUG | Processing scan 88/703
+2025-08-06 15:17:06 | DEBUG | noneffect_hit=62.3%, miss=37.7%
+2025-08-06 15:17:06 | INFO | Cache size : noneffect=5574270  |  Memory usage: 4191.77 MB
+2025-08-06 15:17:06 | INFO | Free space update time: 11.35 s
+2025-08-06 15:17:06 | INFO | 
+2025-08-06 15:17:06 | DEBUG | Processing scan 91/703
+2025-08-06 15:17:19 | DEBUG | noneffect_hit=63.2%, miss=36.8%
+2025-08-06 15:17:19 | INFO | Cache size : noneffect=5727908  |  Memory usage: 4548.45 MB
+2025-08-06 15:17:19 | INFO | Free space update time: 10.43 s
+2025-08-06 15:17:19 | INFO | 
+2025-08-06 15:17:19 | DEBUG | Processing scan 94/703
+2025-08-06 15:17:30 | DEBUG | noneffect_hit=64.3%, miss=35.7%
+2025-08-06 15:17:30 | INFO | Cache size : noneffect=5867178  |  Memory usage: 4583.52 MB
+2025-08-06 15:17:30 | INFO | Free space update time: 9.80 s
+2025-08-06 15:17:30 | INFO | 
+2025-08-06 15:17:30 | DEBUG | Processing scan 97/703
+2025-08-06 15:17:41 | DEBUG | noneffect_hit=65.7%, miss=34.3%
+2025-08-06 15:17:41 | INFO | Cache size : noneffect=5997548  |  Memory usage: 4614.77 MB
+2025-08-06 15:17:41 | INFO | Free space update time: 9.39 s
+2025-08-06 15:17:41 | INFO | 
+2025-08-06 15:17:41 | DEBUG | Processing scan 100/703
+2025-08-06 15:17:52 | DEBUG | noneffect_hit=66.9%, miss=33.1%
+2025-08-06 15:17:52 | INFO | Cache size : noneffect=6113994  |  Memory usage: 4643.77 MB
+2025-08-06 15:17:52 | INFO | Free space update time: 9.33 s
+2025-08-06 15:17:52 | INFO | 
+2025-08-06 15:17:52 | DEBUG | Processing scan 103/703
+2025-08-06 15:18:03 | DEBUG | noneffect_hit=65.9%, miss=34.1%
+2025-08-06 15:18:03 | INFO | Cache size : noneffect=6221177  |  Memory usage: 4669.77 MB
+2025-08-06 15:18:03 | INFO | Free space update time: 8.34 s
+2025-08-06 15:18:03 | INFO | 
+2025-08-06 15:18:03 | DEBUG | Processing scan 106/703
+2025-08-06 15:18:13 | DEBUG | noneffect_hit=64.2%, miss=35.8%
+2025-08-06 15:18:13 | INFO | Cache size : noneffect=6327388  |  Memory usage: 4695.27 MB
+2025-08-06 15:18:13 | INFO | Free space update time: 8.52 s
+2025-08-06 15:18:13 | INFO | 
+2025-08-06 15:18:13 | DEBUG | Processing scan 109/703
+2025-08-06 15:18:25 | DEBUG | noneffect_hit=63.5%, miss=36.5%
+2025-08-06 15:18:25 | INFO | Cache size : noneffect=6440653  |  Memory usage: 4723.77 MB
+2025-08-06 15:18:25 | INFO | Free space update time: 9.64 s
+2025-08-06 15:18:25 | INFO | 
+2025-08-06 15:18:25 | DEBUG | Processing scan 112/703
+2025-08-06 15:18:36 | DEBUG | noneffect_hit=64.8%, miss=35.2%
+2025-08-06 15:18:36 | INFO | Cache size : noneffect=6553502  |  Memory usage: 4752.27 MB
+2025-08-06 15:18:36 | INFO | Free space update time: 8.81 s
+2025-08-06 15:18:36 | INFO | 
+2025-08-06 15:18:36 | DEBUG | Processing scan 115/703
+2025-08-06 15:18:46 | DEBUG | noneffect_hit=64.9%, miss=35.1%
+2025-08-06 15:18:46 | INFO | Cache size : noneffect=6670893  |  Memory usage: 4780.77 MB
+2025-08-06 15:18:46 | INFO | Free space update time: 7.71 s
+2025-08-06 15:18:46 | INFO | 
+2025-08-06 15:18:46 | DEBUG | Processing scan 118/703
+2025-08-06 15:18:56 | DEBUG | noneffect_hit=64.0%, miss=36.0%
+2025-08-06 15:18:56 | INFO | Cache size : noneffect=6791080  |  Memory usage: 4810.77 MB
+2025-08-06 15:18:56 | INFO | Free space update time: 7.98 s
+2025-08-06 15:18:56 | INFO | 
+2025-08-06 15:18:56 | DEBUG | Processing scan 121/703
+2025-08-06 15:19:05 | DEBUG | noneffect_hit=60.9%, miss=39.1%
+2025-08-06 15:19:05 | INFO | Cache size : noneffect=6917156  |  Memory usage: 4842.02 MB
+2025-08-06 15:19:05 | INFO | Free space update time: 7.59 s
+2025-08-06 15:19:05 | INFO | 
+2025-08-06 15:19:05 | DEBUG | Processing scan 124/703
+2025-08-06 15:19:13 | DEBUG | noneffect_hit=60.8%, miss=39.2%
+2025-08-06 15:19:13 | INFO | Cache size : noneffect=7040088  |  Memory usage: 4873.27 MB
+2025-08-06 15:19:13 | INFO | Free space update time: 6.23 s
+2025-08-06 15:19:13 | INFO | 
+2025-08-06 15:19:13 | DEBUG | Processing scan 127/703
+2025-08-06 15:19:23 | DEBUG | noneffect_hit=57.7%, miss=42.3%
+2025-08-06 15:19:23 | INFO | Cache size : noneffect=7190398  |  Memory usage: 4909.52 MB
+2025-08-06 15:19:23 | INFO | Free space update time: 7.73 s
+2025-08-06 15:19:23 | INFO | 
+2025-08-06 15:19:23 | DEBUG | Processing scan 130/703
+2025-08-06 15:19:32 | DEBUG | noneffect_hit=59.7%, miss=40.3%
+2025-08-06 15:19:32 | INFO | Cache size : noneffect=7338993  |  Memory usage: 4946.27 MB
+2025-08-06 15:19:32 | INFO | Free space update time: 7.41 s
+2025-08-06 15:19:32 | INFO | 
+2025-08-06 15:19:32 | DEBUG | Processing scan 133/703
+2025-08-06 15:19:42 | DEBUG | noneffect_hit=59.0%, miss=41.0%
+2025-08-06 15:19:42 | INFO | Cache size : noneffect=7496232  |  Memory usage: 4986.27 MB
+2025-08-06 15:19:42 | INFO | Free space update time: 7.76 s
+2025-08-06 15:19:42 | INFO | 
+2025-08-06 15:19:42 | DEBUG | Processing scan 136/703
+2025-08-06 15:19:52 | DEBUG | noneffect_hit=60.8%, miss=39.2%
+2025-08-06 15:19:52 | INFO | Cache size : noneffect=7653129  |  Memory usage: 5024.02 MB
+2025-08-06 15:19:52 | INFO | Free space update time: 8.04 s
+2025-08-06 15:19:52 | INFO | 
+2025-08-06 15:19:52 | DEBUG | Processing scan 139/703
+2025-08-06 15:20:02 | DEBUG | noneffect_hit=62.0%, miss=38.0%
+2025-08-06 15:20:02 | INFO | Cache size : noneffect=7806640  |  Memory usage: 5061.77 MB
+2025-08-06 15:20:02 | INFO | Free space update time: 7.40 s
+2025-08-06 15:20:02 | INFO | 
+2025-08-06 15:20:02 | DEBUG | Processing scan 142/703
+2025-08-06 15:20:11 | DEBUG | noneffect_hit=64.4%, miss=35.6%
+2025-08-06 15:20:11 | INFO | Cache size : noneffect=7950588  |  Memory usage: 5097.52 MB
+2025-08-06 15:20:11 | INFO | Free space update time: 6.94 s
+2025-08-06 15:20:11 | INFO | 
+2025-08-06 15:20:11 | DEBUG | Processing scan 145/703
+2025-08-06 15:20:20 | DEBUG | noneffect_hit=65.5%, miss=34.5%
+2025-08-06 15:20:20 | INFO | Cache size : noneffect=8089834  |  Memory usage: 5132.52 MB
+2025-08-06 15:20:20 | INFO | Free space update time: 7.30 s
+2025-08-06 15:20:20 | INFO | 
+2025-08-06 15:20:20 | DEBUG | Processing scan 148/703
+2025-08-06 15:20:31 | DEBUG | noneffect_hit=62.2%, miss=37.8%
+2025-08-06 15:20:31 | INFO | Cache size : noneffect=8239077  |  Memory usage: 5169.77 MB
+2025-08-06 15:20:31 | INFO | Free space update time: 8.08 s
+2025-08-06 15:20:31 | INFO | 
+2025-08-06 15:20:31 | DEBUG | Processing scan 151/703
+2025-08-06 15:20:44 | DEBUG | noneffect_hit=60.9%, miss=39.1%
+2025-08-06 15:20:44 | INFO | Cache size : noneffect=8388822  |  Memory usage: 5207.27 MB
+2025-08-06 15:20:44 | INFO | Free space update time: 10.97 s
+2025-08-06 15:20:44 | INFO | 
+2025-08-06 15:20:44 | DEBUG | Processing scan 154/703
+2025-08-06 15:20:55 | DEBUG | noneffect_hit=61.7%, miss=38.3%
+2025-08-06 15:20:55 | INFO | Cache size : noneffect=8541753  |  Memory usage: 5245.27 MB
+2025-08-06 15:20:55 | INFO | Free space update time: 8.61 s
+2025-08-06 15:20:55 | INFO | 
+2025-08-06 15:20:55 | DEBUG | Processing scan 157/703
+2025-08-06 15:21:06 | DEBUG | noneffect_hit=63.4%, miss=36.6%
+2025-08-06 15:21:06 | INFO | Cache size : noneffect=8687624  |  Memory usage: 5282.02 MB
+2025-08-06 15:21:06 | INFO | Free space update time: 8.14 s
+2025-08-06 15:21:06 | INFO | 
+2025-08-06 15:21:06 | DEBUG | Processing scan 160/703
+2025-08-06 15:21:14 | DEBUG | noneffect_hit=64.3%, miss=35.7%
+2025-08-06 15:21:14 | INFO | Cache size : noneffect=8827470  |  Memory usage: 5316.52 MB
+2025-08-06 15:21:14 | INFO | Free space update time: 6.58 s
+2025-08-06 15:21:14 | INFO | 
+2025-08-06 15:21:14 | DEBUG | Processing scan 163/703
+2025-08-06 15:21:23 | DEBUG | noneffect_hit=65.3%, miss=34.7%
+2025-08-06 15:21:23 | INFO | Cache size : noneffect=8961842  |  Memory usage: 5350.02 MB
+2025-08-06 15:21:23 | INFO | Free space update time: 6.62 s
+2025-08-06 15:21:23 | INFO | 
+2025-08-06 15:21:23 | DEBUG | Processing scan 166/703
+2025-08-06 15:21:31 | DEBUG | noneffect_hit=66.5%, miss=33.5%
+2025-08-06 15:21:31 | INFO | Cache size : noneffect=9091016  |  Memory usage: 5382.02 MB
+2025-08-06 15:21:31 | INFO | Free space update time: 6.18 s
+2025-08-06 15:21:31 | INFO | 
+2025-08-06 15:21:31 | DEBUG | Processing scan 169/703
+2025-08-06 15:21:39 | DEBUG | noneffect_hit=66.9%, miss=33.1%
+2025-08-06 15:21:39 | INFO | Cache size : noneffect=9220544  |  Memory usage: 5358.30 MB
+2025-08-06 15:21:39 | INFO | Free space update time: 6.21 s
+2025-08-06 15:21:39 | INFO | 
+2025-08-06 15:21:39 | DEBUG | Processing scan 172/703
+2025-08-06 15:21:48 | DEBUG | noneffect_hit=67.0%, miss=33.0%
+2025-08-06 15:21:48 | INFO | Cache size : noneffect=9346596  |  Memory usage: 5451.73 MB
+2025-08-06 15:21:48 | INFO | Free space update time: 6.10 s
+2025-08-06 15:21:48 | INFO | 
+2025-08-06 15:21:48 | DEBUG | Processing scan 175/703
+2025-08-06 15:21:55 | DEBUG | noneffect_hit=66.0%, miss=34.0%
+2025-08-06 15:21:55 | INFO | Cache size : noneffect=9479914  |  Memory usage: 5421.05 MB
+2025-08-06 15:21:55 | INFO | Free space update time: 5.87 s
+2025-08-06 15:21:55 | INFO | 
+2025-08-06 15:21:55 | DEBUG | Processing scan 178/703
+2025-08-06 15:22:02 | DEBUG | noneffect_hit=64.3%, miss=35.7%
+2025-08-06 15:22:02 | INFO | Cache size : noneffect=9612452  |  Memory usage: 5466.55 MB
+2025-08-06 15:22:02 | INFO | Free space update time: 5.24 s
+2025-08-06 15:22:02 | INFO | 
+2025-08-06 15:22:02 | DEBUG | Processing scan 181/703
+2025-08-06 15:22:10 | DEBUG | noneffect_hit=61.0%, miss=39.0%
+2025-08-06 15:22:10 | INFO | Cache size : noneffect=9751529  |  Memory usage: 5513.80 MB
+2025-08-06 15:22:10 | INFO | Free space update time: 5.73 s
+2025-08-06 15:22:10 | INFO | 
+2025-08-06 15:22:10 | DEBUG | Processing scan 184/703
+2025-08-06 15:22:18 | DEBUG | noneffect_hit=57.8%, miss=42.2%
+2025-08-06 15:22:18 | INFO | Cache size : noneffect=9897071  |  Memory usage: 5563.05 MB
+2025-08-06 15:22:18 | INFO | Free space update time: 6.72 s
+2025-08-06 15:22:18 | INFO | 
+2025-08-06 15:22:18 | DEBUG | Processing scan 187/703
+2025-08-06 15:22:28 | DEBUG | noneffect_hit=55.6%, miss=44.4%
+2025-08-06 15:22:28 | INFO | Cache size : noneffect=10060918  |  Memory usage: 5601.29 MB
+2025-08-06 15:22:28 | INFO | Free space update time: 7.39 s
+2025-08-06 15:22:28 | INFO | 
+2025-08-06 15:22:28 | DEBUG | Processing scan 190/703
+2025-08-06 15:22:38 | DEBUG | noneffect_hit=54.4%, miss=45.6%
+2025-08-06 15:22:38 | INFO | Cache size : noneffect=10225647  |  Memory usage: 5707.80 MB
+2025-08-06 15:22:38 | INFO | Free space update time: 8.41 s
+2025-08-06 15:22:38 | INFO | 
+2025-08-06 15:22:38 | DEBUG | Processing scan 193/703
+2025-08-06 15:22:48 | DEBUG | noneffect_hit=53.5%, miss=46.5%
+2025-08-06 15:22:48 | INFO | Cache size : noneffect=10393760  |  Memory usage: 5757.06 MB
+2025-08-06 15:22:48 | INFO | Free space update time: 8.23 s
+2025-08-06 15:22:48 | INFO | 
+2025-08-06 15:22:48 | DEBUG | Processing scan 196/703
+2025-08-06 15:22:59 | DEBUG | noneffect_hit=53.9%, miss=46.1%
+2025-08-06 15:22:59 | INFO | Cache size : noneffect=10568172  |  Memory usage: 5825.56 MB
+2025-08-06 15:22:59 | INFO | Free space update time: 8.43 s
+2025-08-06 15:22:59 | INFO | 
+2025-08-06 15:22:59 | DEBUG | Processing scan 199/703
+2025-08-06 15:23:09 | DEBUG | noneffect_hit=53.7%, miss=46.3%
+2025-08-06 15:23:09 | INFO | Cache size : noneffect=10744185  |  Memory usage: 5872.08 MB
+2025-08-06 15:23:09 | INFO | Free space update time: 8.38 s
+2025-08-06 15:23:09 | INFO | 
+2025-08-06 15:23:09 | DEBUG | Processing scan 202/703
+2025-08-06 15:23:21 | DEBUG | noneffect_hit=53.0%, miss=47.0%
+2025-08-06 15:23:21 | INFO | Cache size : noneffect=10928325  |  Memory usage: 5920.87 MB
+2025-08-06 15:23:21 | INFO | Free space update time: 10.27 s
+2025-08-06 15:23:21 | INFO | 
+2025-08-06 15:23:21 | DEBUG | Processing scan 205/703
+2025-08-06 15:23:33 | DEBUG | noneffect_hit=53.6%, miss=46.4%
+2025-08-06 15:23:33 | INFO | Cache size : noneffect=11110525  |  Memory usage: 5992.10 MB
+2025-08-06 15:23:33 | INFO | Free space update time: 9.54 s
+2025-08-06 15:23:33 | INFO | 
+2025-08-06 15:23:33 | DEBUG | Processing scan 208/703
+2025-08-06 15:23:45 | DEBUG | noneffect_hit=53.3%, miss=46.7%
+2025-08-06 15:23:45 | INFO | Cache size : noneffect=11292422  |  Memory usage: 6367.02 MB
+2025-08-06 15:23:45 | INFO | Free space update time: 10.06 s
+2025-08-06 15:23:45 | INFO | 
+2025-08-06 15:23:45 | DEBUG | Processing scan 211/703
+2025-08-06 15:23:56 | DEBUG | noneffect_hit=51.6%, miss=48.4%
+2025-08-06 15:23:56 | INFO | Cache size : noneffect=11483187  |  Memory usage: 6415.77 MB
+2025-08-06 15:23:56 | INFO | Free space update time: 9.89 s
+2025-08-06 15:23:56 | INFO | 
+2025-08-06 15:23:56 | DEBUG | Processing scan 214/703
+2025-08-06 15:24:09 | DEBUG | noneffect_hit=51.2%, miss=48.8%
+2025-08-06 15:24:09 | INFO | Cache size : noneffect=11672872  |  Memory usage: 6472.25 MB
+2025-08-06 15:24:09 | INFO | Free space update time: 10.36 s
+2025-08-06 15:24:09 | INFO | 
+2025-08-06 15:24:09 | DEBUG | Processing scan 217/703
+2025-08-06 15:24:21 | DEBUG | noneffect_hit=52.0%, miss=48.0%
+2025-08-06 15:24:21 | INFO | Cache size : noneffect=11858444  |  Memory usage: 6466.01 MB
+2025-08-06 15:24:21 | INFO | Free space update time: 9.86 s
+2025-08-06 15:24:21 | INFO | 
+2025-08-06 15:24:21 | DEBUG | Processing scan 220/703
+2025-08-06 15:24:32 | DEBUG | noneffect_hit=50.9%, miss=49.1%
+2025-08-06 15:24:32 | INFO | Cache size : noneffect=12054670  |  Memory usage: 6531.51 MB
+2025-08-06 15:24:32 | INFO | Free space update time: 9.72 s
+2025-08-06 15:24:32 | INFO | 
+2025-08-06 15:24:32 | DEBUG | Processing scan 223/703
+2025-08-06 15:24:46 | DEBUG | noneffect_hit=50.3%, miss=49.7%
+2025-08-06 15:24:46 | INFO | Cache size : noneffect=12259084  |  Memory usage: 6600.26 MB
+2025-08-06 15:24:46 | INFO | Free space update time: 10.98 s
+2025-08-06 15:24:46 | INFO | 
+2025-08-06 15:24:46 | DEBUG | Processing scan 226/703
+2025-08-06 15:24:57 | DEBUG | noneffect_hit=51.8%, miss=48.2%
+2025-08-06 15:24:57 | INFO | Cache size : noneffect=12454385  |  Memory usage: 6716.20 MB
+2025-08-06 15:24:57 | INFO | Free space update time: 9.75 s
+2025-08-06 15:24:57 | INFO | 
+2025-08-06 15:24:57 | DEBUG | Processing scan 229/703
+2025-08-06 15:25:09 | DEBUG | noneffect_hit=51.8%, miss=48.2%
+2025-08-06 15:25:09 | INFO | Cache size : noneffect=12656016  |  Memory usage: 6776.79 MB
+2025-08-06 15:25:09 | INFO | Free space update time: 9.90 s
+2025-08-06 15:25:09 | INFO | 
+2025-08-06 15:25:09 | DEBUG | Processing scan 232/703
+2025-08-06 15:25:21 | DEBUG | noneffect_hit=53.4%, miss=46.6%
+2025-08-06 15:25:21 | INFO | Cache size : noneffect=12852364  |  Memory usage: 6837.66 MB
+2025-08-06 15:25:21 | INFO | Free space update time: 9.14 s
+2025-08-06 15:25:21 | INFO | 
+2025-08-06 15:25:21 | DEBUG | Processing scan 235/703
+2025-08-06 15:25:32 | DEBUG | noneffect_hit=55.2%, miss=44.8%
+2025-08-06 15:25:32 | INFO | Cache size : noneffect=13044207  |  Memory usage: 6902.21 MB
+2025-08-06 15:25:32 | INFO | Free space update time: 9.13 s
+2025-08-06 15:25:32 | INFO | 
+2025-08-06 15:25:32 | DEBUG | Processing scan 238/703
+2025-08-06 15:25:45 | DEBUG | noneffect_hit=54.9%, miss=45.1%
+2025-08-06 15:25:45 | INFO | Cache size : noneffect=13232298  |  Memory usage: 6961.03 MB
+2025-08-06 15:25:45 | INFO | Free space update time: 10.57 s
+2025-08-06 15:25:45 | INFO | 
+2025-08-06 15:25:45 | DEBUG | Processing scan 241/703
+2025-08-06 15:25:56 | DEBUG | noneffect_hit=53.7%, miss=46.3%
+2025-08-06 15:25:56 | INFO | Cache size : noneffect=13418912  |  Memory usage: 6927.11 MB
+2025-08-06 15:25:56 | INFO | Free space update time: 9.20 s
+2025-08-06 15:25:56 | INFO | 
+2025-08-06 15:25:56 | DEBUG | Processing scan 244/703
+2025-08-06 15:26:07 | DEBUG | noneffect_hit=51.6%, miss=48.4%
+2025-08-06 15:26:07 | INFO | Cache size : noneffect=13618654  |  Memory usage: 7046.38 MB
+2025-08-06 15:26:07 | INFO | Free space update time: 9.24 s
+2025-08-06 15:26:07 | INFO | 
+2025-08-06 15:26:07 | DEBUG | Processing scan 247/703
+2025-08-06 15:26:19 | DEBUG | noneffect_hit=53.0%, miss=47.0%
+2025-08-06 15:26:19 | INFO | Cache size : noneffect=13810669  |  Memory usage: 7057.69 MB
+2025-08-06 15:26:19 | INFO | Free space update time: 9.81 s
+2025-08-06 15:26:19 | INFO | 
+2025-08-06 15:26:19 | DEBUG | Processing scan 250/703
+2025-08-06 15:26:29 | DEBUG | noneffect_hit=54.5%, miss=45.5%
+2025-08-06 15:26:29 | INFO | Cache size : noneffect=13994483  |  Memory usage: 7125.69 MB
+2025-08-06 15:26:29 | INFO | Free space update time: 8.03 s
+2025-08-06 15:26:29 | INFO | 
+2025-08-06 15:26:29 | DEBUG | Processing scan 253/703
+2025-08-06 15:26:39 | DEBUG | noneffect_hit=54.2%, miss=45.8%
+2025-08-06 15:26:39 | INFO | Cache size : noneffect=14180311  |  Memory usage: 7182.44 MB
+2025-08-06 15:26:39 | INFO | Free space update time: 8.05 s
+2025-08-06 15:26:39 | INFO | 
+2025-08-06 15:26:39 | DEBUG | Processing scan 256/703
+2025-08-06 15:26:49 | DEBUG | noneffect_hit=54.1%, miss=45.9%
+2025-08-06 15:26:49 | INFO | Cache size : noneffect=14367730  |  Memory usage: 7239.69 MB
+2025-08-06 15:26:49 | INFO | Free space update time: 8.25 s
+2025-08-06 15:26:49 | INFO | 
+2025-08-06 15:26:49 | DEBUG | Processing scan 259/703
+2025-08-06 15:26:59 | DEBUG | noneffect_hit=54.2%, miss=45.8%
+2025-08-06 15:26:59 | INFO | Cache size : noneffect=14550236  |  Memory usage: 7350.74 MB
+2025-08-06 15:26:59 | INFO | Free space update time: 7.69 s
+2025-08-06 15:26:59 | INFO | 
+2025-08-06 15:26:59 | DEBUG | Processing scan 262/703
+2025-08-06 15:27:09 | DEBUG | noneffect_hit=53.6%, miss=46.4%
+2025-08-06 15:27:09 | INFO | Cache size : noneffect=14734673  |  Memory usage: 7408.42 MB
+2025-08-06 15:27:09 | INFO | Free space update time: 8.01 s
+2025-08-06 15:27:09 | INFO | 
+2025-08-06 15:27:09 | DEBUG | Processing scan 265/703
+2025-08-06 15:27:19 | DEBUG | noneffect_hit=52.7%, miss=47.3%
+2025-08-06 15:27:19 | INFO | Cache size : noneffect=14929166  |  Memory usage: 7469.30 MB
+2025-08-06 15:27:19 | INFO | Free space update time: 8.54 s
+2025-08-06 15:27:19 | INFO | 
+2025-08-06 15:27:19 | DEBUG | Processing scan 268/703
+2025-08-06 15:27:29 | DEBUG | noneffect_hit=55.4%, miss=44.6%
+2025-08-06 15:27:29 | INFO | Cache size : noneffect=15124670  |  Memory usage: 7529.31 MB
+2025-08-06 15:27:29 | INFO | Free space update time: 8.07 s
+2025-08-06 15:27:29 | INFO | 
+2025-08-06 15:27:29 | DEBUG | Processing scan 271/703
+2025-08-06 15:27:39 | DEBUG | noneffect_hit=59.2%, miss=40.8%
+2025-08-06 15:27:39 | INFO | Cache size : noneffect=15318471  |  Memory usage: 7596.97 MB
+2025-08-06 15:27:39 | INFO | Free space update time: 7.85 s
+2025-08-06 15:27:39 | INFO | 
+2025-08-06 15:27:39 | DEBUG | Processing scan 274/703
+2025-08-06 15:27:49 | DEBUG | noneffect_hit=61.4%, miss=38.6%
+2025-08-06 15:27:49 | INFO | Cache size : noneffect=15513839  |  Memory usage: 7674.80 MB
+2025-08-06 15:27:49 | INFO | Free space update time: 8.01 s
+2025-08-06 15:27:49 | INFO | 
+2025-08-06 15:27:49 | DEBUG | Processing scan 277/703
+2025-08-06 15:27:58 | DEBUG | noneffect_hit=68.1%, miss=31.9%
+2025-08-06 15:27:58 | INFO | Cache size : noneffect=15670971  |  Memory usage: 7726.38 MB
+2025-08-06 15:27:58 | INFO | Free space update time: 6.59 s
+2025-08-06 15:27:58 | INFO | 
+2025-08-06 15:27:58 | DEBUG | Processing scan 280/703
+2025-08-06 15:28:07 | DEBUG | noneffect_hit=73.8%, miss=26.2%
+2025-08-06 15:28:07 | INFO | Cache size : noneffect=15790124  |  Memory usage: 7755.38 MB
+2025-08-06 15:28:07 | INFO | Free space update time: 6.55 s
+2025-08-06 15:28:07 | INFO | 
+2025-08-06 15:28:07 | DEBUG | Processing scan 283/703
+2025-08-06 15:28:15 | DEBUG | noneffect_hit=79.5%, miss=20.5%
+2025-08-06 15:28:15 | INFO | Cache size : noneffect=15880311  |  Memory usage: 7674.40 MB
+2025-08-06 15:28:15 | INFO | Free space update time: 4.75 s
+2025-08-06 15:28:15 | INFO | 
+2025-08-06 15:28:15 | DEBUG | Processing scan 286/703
+2025-08-06 15:28:22 | DEBUG | noneffect_hit=82.6%, miss=17.4%
+2025-08-06 15:28:22 | INFO | Cache size : noneffect=15956428  |  Memory usage: 7718.19 MB
+2025-08-06 15:28:22 | INFO | Free space update time: 3.85 s
+2025-08-06 15:28:22 | INFO | 
+2025-08-06 15:28:22 | DEBUG | Processing scan 289/703
+2025-08-06 15:28:27 | DEBUG | noneffect_hit=84.3%, miss=15.7%
+2025-08-06 15:28:27 | INFO | Cache size : noneffect=16023231  |  Memory usage: 7746.94 MB
+2025-08-06 15:28:27 | INFO | Free space update time: 3.34 s
+2025-08-06 15:28:27 | INFO | 
+2025-08-06 15:28:27 | DEBUG | Processing scan 292/703
+2025-08-06 15:28:33 | DEBUG | noneffect_hit=84.3%, miss=15.7%
+2025-08-06 15:28:33 | INFO | Cache size : noneffect=16091296  |  Memory usage: 7763.69 MB
+2025-08-06 15:28:33 | INFO | Free space update time: 3.16 s
+2025-08-06 15:28:33 | INFO | 
+2025-08-06 15:28:33 | DEBUG | Processing scan 295/703
+2025-08-06 15:28:38 | DEBUG | noneffect_hit=83.4%, miss=16.6%
+2025-08-06 15:28:38 | INFO | Cache size : noneffect=16165695  |  Memory usage: 7828.41 MB
+2025-08-06 15:28:38 | INFO | Free space update time: 3.27 s
+2025-08-06 15:28:38 | INFO | 
+2025-08-06 15:28:38 | DEBUG | Processing scan 298/703
+2025-08-06 15:28:44 | DEBUG | noneffect_hit=83.0%, miss=17.0%
+2025-08-06 15:28:44 | INFO | Cache size : noneffect=16242289  |  Memory usage: 7847.40 MB
+2025-08-06 15:28:44 | INFO | Free space update time: 3.59 s
+2025-08-06 15:28:44 | INFO | 
+2025-08-06 15:28:44 | DEBUG | Processing scan 301/703
+2025-08-06 15:28:50 | DEBUG | noneffect_hit=81.7%, miss=18.3%
+2025-08-06 15:28:50 | INFO | Cache size : noneffect=16324817  |  Memory usage: 7822.56 MB
+2025-08-06 15:28:50 | INFO | Free space update time: 3.94 s
+2025-08-06 15:28:50 | INFO | 
+2025-08-06 15:28:50 | DEBUG | Processing scan 304/703
+2025-08-06 15:28:57 | DEBUG | noneffect_hit=79.0%, miss=21.0%
+2025-08-06 15:28:57 | INFO | Cache size : noneffect=16422604  |  Memory usage: 7867.81 MB
+2025-08-06 15:28:57 | INFO | Free space update time: 4.96 s
+2025-08-06 15:28:57 | INFO | 
+2025-08-06 15:28:57 | DEBUG | Processing scan 307/703
+2025-08-06 15:29:05 | DEBUG | noneffect_hit=79.1%, miss=20.9%
+2025-08-06 15:29:05 | INFO | Cache size : noneffect=16523205  |  Memory usage: 7965.01 MB
+2025-08-06 15:29:05 | INFO | Free space update time: 5.09 s
+2025-08-06 15:29:05 | INFO | 
+2025-08-06 15:29:05 | DEBUG | Processing scan 310/703
+2025-08-06 15:29:12 | DEBUG | noneffect_hit=80.2%, miss=19.8%
+2025-08-06 15:29:12 | INFO | Cache size : noneffect=16618336  |  Memory usage: 8018.76 MB
+2025-08-06 15:29:12 | INFO | Free space update time: 5.26 s
+2025-08-06 15:29:12 | INFO | 
+2025-08-06 15:29:12 | DEBUG | Processing scan 313/703
+2025-08-06 15:29:21 | DEBUG | noneffect_hit=79.5%, miss=20.5%
+2025-08-06 15:29:21 | INFO | Cache size : noneffect=16714981  |  Memory usage: 7976.33 MB
+2025-08-06 15:29:21 | INFO | Free space update time: 5.70 s
+2025-08-06 15:29:21 | INFO | 
+2025-08-06 15:29:21 | DEBUG | Processing scan 316/703
+2025-08-06 15:29:28 | DEBUG | noneffect_hit=79.6%, miss=20.4%
+2025-08-06 15:29:28 | INFO | Cache size : noneffect=16809770  |  Memory usage: 8058.65 MB
+2025-08-06 15:29:28 | INFO | Free space update time: 5.03 s
+2025-08-06 15:29:28 | INFO | 
+2025-08-06 15:29:28 | DEBUG | Processing scan 319/703
+2025-08-06 15:29:35 | DEBUG | noneffect_hit=80.5%, miss=19.5%
+2025-08-06 15:29:35 | INFO | Cache size : noneffect=16897055  |  Memory usage: 8021.33 MB
+2025-08-06 15:29:35 | INFO | Free space update time: 4.65 s
+2025-08-06 15:29:35 | INFO | 
+2025-08-06 15:29:35 | DEBUG | Processing scan 322/703
+2025-08-06 15:29:42 | DEBUG | noneffect_hit=80.5%, miss=19.5%
+2025-08-06 15:29:42 | INFO | Cache size : noneffect=16985591  |  Memory usage: 8103.05 MB
+2025-08-06 15:29:42 | INFO | Free space update time: 4.54 s
+2025-08-06 15:29:42 | INFO | 
+2025-08-06 15:29:42 | DEBUG | Processing scan 325/703
+2025-08-06 15:29:49 | DEBUG | noneffect_hit=80.8%, miss=19.2%
+2025-08-06 15:29:49 | INFO | Cache size : noneffect=17068053  |  Memory usage: 8063.58 MB
+2025-08-06 15:29:49 | INFO | Free space update time: 4.71 s
+2025-08-06 15:29:49 | INFO | 
+2025-08-06 15:29:49 | DEBUG | Processing scan 328/703
+2025-08-06 15:29:55 | DEBUG | noneffect_hit=80.5%, miss=19.5%
+2025-08-06 15:29:55 | INFO | Cache size : noneffect=17151652  |  Memory usage: 8140.52 MB
+2025-08-06 15:29:55 | INFO | Free space update time: 4.10 s
+2025-08-06 15:29:55 | INFO | 
+2025-08-06 15:29:55 | DEBUG | Processing scan 331/703
+2025-08-06 15:30:01 | DEBUG | noneffect_hit=80.5%, miss=19.5%
+2025-08-06 15:30:01 | INFO | Cache size : noneffect=17234183  |  Memory usage: 8116.57 MB
+2025-08-06 15:30:01 | INFO | Free space update time: 4.16 s
+2025-08-06 15:30:01 | INFO | 
+2025-08-06 15:30:01 | DEBUG | Processing scan 334/703
+2025-08-06 15:30:08 | DEBUG | noneffect_hit=78.4%, miss=21.6%
+2025-08-06 15:30:08 | INFO | Cache size : noneffect=17329723  |  Memory usage: 8140.32 MB
+2025-08-06 15:30:08 | INFO | Free space update time: 4.85 s
+2025-08-06 15:30:08 | INFO | 
+2025-08-06 15:30:08 | DEBUG | Processing scan 337/703
+2025-08-06 15:30:15 | DEBUG | noneffect_hit=79.7%, miss=20.3%
+2025-08-06 15:30:15 | INFO | Cache size : noneffect=17414668  |  Memory usage: 8161.32 MB
+2025-08-06 15:30:15 | INFO | Free space update time: 4.43 s
+2025-08-06 15:30:15 | INFO | 
+2025-08-06 15:30:15 | DEBUG | Processing scan 340/703
+2025-08-06 15:30:22 | DEBUG | noneffect_hit=79.7%, miss=20.3%
+2025-08-06 15:30:22 | INFO | Cache size : noneffect=17500631  |  Memory usage: 8194.57 MB
+2025-08-06 15:30:22 | INFO | Free space update time: 4.77 s
+2025-08-06 15:30:22 | INFO | 
+2025-08-06 15:30:22 | DEBUG | Processing scan 343/703
+2025-08-06 15:30:29 | DEBUG | noneffect_hit=79.6%, miss=20.4%
+2025-08-06 15:30:29 | INFO | Cache size : noneffect=17587475  |  Memory usage: 8216.57 MB
+2025-08-06 15:30:29 | INFO | Free space update time: 4.53 s
+2025-08-06 15:30:29 | INFO | 
+2025-08-06 15:30:29 | DEBUG | Processing scan 346/703
+2025-08-06 15:30:34 | DEBUG | noneffect_hit=81.5%, miss=18.5%
+2025-08-06 15:30:34 | INFO | Cache size : noneffect=17661837  |  Memory usage: 8231.82 MB
+2025-08-06 15:30:34 | INFO | Free space update time: 3.57 s
+2025-08-06 15:30:34 | INFO | 
+2025-08-06 15:30:34 | DEBUG | Processing scan 349/703
+2025-08-06 15:30:40 | DEBUG | noneffect_hit=80.6%, miss=19.4%
+2025-08-06 15:30:40 | INFO | Cache size : noneffect=17743963  |  Memory usage: 8264.57 MB
+2025-08-06 15:30:40 | INFO | Free space update time: 4.16 s
+2025-08-06 15:30:40 | INFO | 
+2025-08-06 15:30:40 | DEBUG | Processing scan 352/703
+2025-08-06 15:30:47 | DEBUG | noneffect_hit=80.9%, miss=19.1%
+2025-08-06 15:30:47 | INFO | Cache size : noneffect=17826060  |  Memory usage: 8296.82 MB
+2025-08-06 15:30:47 | INFO | Free space update time: 4.38 s
+2025-08-06 15:30:47 | INFO | 
+2025-08-06 15:30:47 | DEBUG | Processing scan 355/703
+2025-08-06 15:30:54 | DEBUG | noneffect_hit=80.9%, miss=19.1%
+2025-08-06 15:30:54 | INFO | Cache size : noneffect=17902113  |  Memory usage: 8294.32 MB
+2025-08-06 15:30:54 | INFO | Free space update time: 4.43 s
+2025-08-06 15:30:54 | INFO | 
+2025-08-06 15:30:54 | DEBUG | Processing scan 358/703
+2025-08-06 15:31:01 | DEBUG | noneffect_hit=76.8%, miss=23.2%
+2025-08-06 15:31:01 | INFO | Cache size : noneffect=17988441  |  Memory usage: 8327.07 MB
+2025-08-06 15:31:01 | INFO | Free space update time: 4.38 s
+2025-08-06 15:31:01 | INFO | 
+2025-08-06 15:31:01 | DEBUG | Processing scan 361/703
+2025-08-06 15:31:07 | DEBUG | noneffect_hit=75.4%, miss=24.6%
+2025-08-06 15:31:07 | INFO | Cache size : noneffect=18072341  |  Memory usage: 8347.32 MB
+2025-08-06 15:31:07 | INFO | Free space update time: 4.19 s
+2025-08-06 15:31:07 | INFO | 
+2025-08-06 15:31:07 | DEBUG | Processing scan 364/703
+2025-08-06 15:31:13 | DEBUG | noneffect_hit=74.3%, miss=25.7%
+2025-08-06 15:31:13 | INFO | Cache size : noneffect=18152630  |  Memory usage: 8362.57 MB
+2025-08-06 15:31:13 | INFO | Free space update time: 4.58 s
+2025-08-06 15:31:13 | INFO | 
+2025-08-06 15:31:13 | DEBUG | Processing scan 367/703
+2025-08-06 15:31:21 | DEBUG | noneffect_hit=70.0%, miss=30.0%
+2025-08-06 15:31:21 | INFO | Cache size : noneffect=18244719  |  Memory usage: 8446.91 MB
+2025-08-06 15:31:21 | INFO | Free space update time: 6.10 s
+2025-08-06 15:31:21 | INFO | 
+2025-08-06 15:31:21 | DEBUG | Processing scan 370/703
+2025-08-06 15:31:31 | DEBUG | noneffect_hit=68.5%, miss=31.5%
+2025-08-06 15:31:31 | INFO | Cache size : noneffect=18345211  |  Memory usage: 8421.90 MB
+2025-08-06 15:31:31 | INFO | Free space update time: 7.29 s
+2025-08-06 15:31:31 | INFO | 
+2025-08-06 15:31:31 | DEBUG | Processing scan 373/703
+2025-08-06 15:31:42 | DEBUG | noneffect_hit=63.0%, miss=37.0%
+2025-08-06 15:31:42 | INFO | Cache size : noneffect=18477469  |  Memory usage: 8500.48 MB
+2025-08-06 15:31:42 | INFO | Free space update time: 9.05 s
+2025-08-06 15:31:42 | INFO | 
+2025-08-06 15:31:42 | DEBUG | Processing scan 376/703
+2025-08-06 15:31:53 | DEBUG | noneffect_hit=61.8%, miss=38.2%
+2025-08-06 15:31:53 | INFO | Cache size : noneffect=18629437  |  Memory usage: 8521.94 MB
+2025-08-06 15:31:53 | INFO | Free space update time: 8.71 s
+2025-08-06 15:31:53 | INFO | 
+2025-08-06 15:31:53 | DEBUG | Processing scan 379/703
+2025-08-06 15:32:03 | DEBUG | noneffect_hit=64.7%, miss=35.3%
+2025-08-06 15:32:03 | INFO | Cache size : noneffect=18775777  |  Memory usage: 8570.44 MB
+2025-08-06 15:32:03 | INFO | Free space update time: 8.26 s
+2025-08-06 15:32:03 | INFO | 
+2025-08-06 15:32:03 | DEBUG | Processing scan 382/703
+2025-08-06 15:32:13 | DEBUG | noneffect_hit=66.9%, miss=33.1%
+2025-08-06 15:32:13 | INFO | Cache size : noneffect=18916617  |  Memory usage: 8617.94 MB
+2025-08-06 15:32:13 | INFO | Free space update time: 8.18 s
+2025-08-06 15:32:13 | INFO | 
+2025-08-06 15:32:13 | DEBUG | Processing scan 385/703
+2025-08-06 15:32:23 | DEBUG | noneffect_hit=68.2%, miss=31.8%
+2025-08-06 15:32:23 | INFO | Cache size : noneffect=19059224  |  Memory usage: 8664.94 MB
+2025-08-06 15:32:23 | INFO | Free space update time: 7.80 s
+2025-08-06 15:32:23 | INFO | 
+2025-08-06 15:32:23 | DEBUG | Processing scan 388/703
+2025-08-06 15:32:34 | DEBUG | noneffect_hit=68.2%, miss=31.8%
+2025-08-06 15:32:34 | INFO | Cache size : noneffect=19207073  |  Memory usage: 8705.75 MB
+2025-08-06 15:32:34 | INFO | Free space update time: 8.22 s
+2025-08-06 15:32:34 | INFO | 
+2025-08-06 15:32:34 | DEBUG | Processing scan 391/703
+2025-08-06 15:32:45 | DEBUG | noneffect_hit=68.9%, miss=31.1%
+2025-08-06 15:32:45 | INFO | Cache size : noneffect=19355349  |  Memory usage: 8810.15 MB
+2025-08-06 15:32:45 | INFO | Free space update time: 8.27 s
+2025-08-06 15:32:45 | INFO | 
+2025-08-06 15:32:45 | DEBUG | Processing scan 394/703
+2025-08-06 15:32:55 | DEBUG | noneffect_hit=69.4%, miss=30.6%
+2025-08-06 15:32:55 | INFO | Cache size : noneffect=19504205  |  Memory usage: 8857.86 MB
+2025-08-06 15:32:55 | INFO | Free space update time: 8.00 s
+2025-08-06 15:32:55 | INFO | 
+2025-08-06 15:32:55 | DEBUG | Processing scan 397/703
+2025-08-06 15:33:09 | DEBUG | noneffect_hit=69.2%, miss=30.8%
+2025-08-06 15:33:09 | INFO | Cache size : noneffect=19655271  |  Memory usage: 8920.46 MB
+2025-08-06 15:33:09 | INFO | Free space update time: 10.91 s
+2025-08-06 15:33:09 | INFO | 
+2025-08-06 15:33:09 | DEBUG | Processing scan 400/703
+2025-08-06 15:33:21 | DEBUG | noneffect_hit=69.3%, miss=30.7%
+2025-08-06 15:33:21 | INFO | Cache size : noneffect=19815394  |  Memory usage: 8971.75 MB
+2025-08-06 15:33:21 | INFO | Free space update time: 10.00 s
+2025-08-06 15:33:21 | INFO | 
+2025-08-06 15:33:21 | DEBUG | Processing scan 403/703
+2025-08-06 15:33:32 | DEBUG | noneffect_hit=71.0%, miss=29.0%
+2025-08-06 15:33:32 | INFO | Cache size : noneffect=19967909  |  Memory usage: 9022.43 MB
+2025-08-06 15:33:32 | INFO | Free space update time: 8.19 s
+2025-08-06 15:33:32 | INFO | 
+2025-08-06 15:33:32 | DEBUG | Processing scan 406/703
+2025-08-06 15:33:42 | DEBUG | noneffect_hit=72.7%, miss=27.3%
+2025-08-06 15:33:42 | INFO | Cache size : noneffect=20108864  |  Memory usage: 9069.40 MB
+2025-08-06 15:33:42 | INFO | Free space update time: 7.82 s
+2025-08-06 15:33:42 | INFO | 
+2025-08-06 15:33:42 | DEBUG | Processing scan 409/703
+2025-08-06 15:33:52 | DEBUG | noneffect_hit=74.7%, miss=25.3%
+2025-08-06 15:33:52 | INFO | Cache size : noneffect=20233458  |  Memory usage: 9103.00 MB
+2025-08-06 15:33:52 | INFO | Free space update time: 7.23 s
+2025-08-06 15:33:52 | INFO | 
+2025-08-06 15:33:52 | DEBUG | Processing scan 412/703
+2025-08-06 15:34:00 | DEBUG | noneffect_hit=80.6%, miss=19.4%
+2025-08-06 15:34:00 | INFO | Cache size : noneffect=20327016  |  Memory usage: 9012.00 MB
+2025-08-06 15:34:00 | INFO | Free space update time: 5.59 s
+2025-08-06 15:34:00 | INFO | 
+2025-08-06 15:34:00 | DEBUG | Processing scan 415/703
+2025-08-06 15:34:08 | DEBUG | noneffect_hit=82.5%, miss=17.5%
+2025-08-06 15:34:08 | INFO | Cache size : noneffect=20412321  |  Memory usage: 9095.09 MB
+2025-08-06 15:34:08 | INFO | Free space update time: 5.30 s
+2025-08-06 15:34:08 | INFO | 
+2025-08-06 15:34:08 | DEBUG | Processing scan 418/703
+2025-08-06 15:34:14 | DEBUG | noneffect_hit=86.3%, miss=13.7%
+2025-08-06 15:34:14 | INFO | Cache size : noneffect=20476374  |  Memory usage: 9091.81 MB
+2025-08-06 15:34:14 | INFO | Free space update time: 3.77 s
+2025-08-06 15:34:14 | INFO | 
+2025-08-06 15:34:14 | DEBUG | Processing scan 421/703
+2025-08-06 15:34:19 | DEBUG | noneffect_hit=89.1%, miss=10.9%
+2025-08-06 15:34:19 | INFO | Cache size : noneffect=20526212  |  Memory usage: 9104.06 MB
+2025-08-06 15:34:19 | INFO | Free space update time: 2.75 s
+2025-08-06 15:34:19 | INFO | 
+2025-08-06 15:34:19 | DEBUG | Processing scan 424/703
+2025-08-06 15:34:23 | DEBUG | noneffect_hit=91.4%, miss=8.6%
+2025-08-06 15:34:23 | INFO | Cache size : noneffect=20565959  |  Memory usage: 9107.81 MB
+2025-08-06 15:34:23 | INFO | Free space update time: 2.21 s
+2025-08-06 15:34:23 | INFO | 
+2025-08-06 15:34:23 | DEBUG | Processing scan 427/703
+2025-08-06 15:34:28 | DEBUG | noneffect_hit=92.9%, miss=7.1%
+2025-08-06 15:34:28 | INFO | Cache size : noneffect=20600145  |  Memory usage: 9128.31 MB
+2025-08-06 15:34:28 | INFO | Free space update time: 1.99 s
+2025-08-06 15:34:28 | INFO | 
+2025-08-06 15:34:28 | DEBUG | Processing scan 430/703
+2025-08-06 15:34:32 | DEBUG | noneffect_hit=93.5%, miss=6.5%
+2025-08-06 15:34:32 | INFO | Cache size : noneffect=20631543  |  Memory usage: 9118.41 MB
+2025-08-06 15:34:32 | INFO | Free space update time: 1.96 s
+2025-08-06 15:34:32 | INFO | 
+2025-08-06 15:34:32 | DEBUG | Processing scan 433/703
+2025-08-06 15:34:37 | DEBUG | noneffect_hit=93.5%, miss=6.5%
+2025-08-06 15:34:37 | INFO | Cache size : noneffect=20661626  |  Memory usage: 9137.91 MB
+2025-08-06 15:34:37 | INFO | Free space update time: 1.97 s
+2025-08-06 15:34:37 | INFO | 
+2025-08-06 15:34:37 | DEBUG | Processing scan 436/703
+2025-08-06 15:34:41 | DEBUG | noneffect_hit=94.1%, miss=5.9%
+2025-08-06 15:34:41 | INFO | Cache size : noneffect=20688635  |  Memory usage: 9144.41 MB
+2025-08-06 15:34:41 | INFO | Free space update time: 1.59 s
+2025-08-06 15:34:41 | INFO | 
+2025-08-06 15:34:41 | DEBUG | Processing scan 439/703
+2025-08-06 15:34:45 | DEBUG | noneffect_hit=93.4%, miss=6.6%
+2025-08-06 15:34:45 | INFO | Cache size : noneffect=20717684  |  Memory usage: 9150.91 MB
+2025-08-06 15:34:45 | INFO | Free space update time: 1.75 s
+2025-08-06 15:34:45 | INFO | 
+2025-08-06 15:34:45 | DEBUG | Processing scan 442/703
+2025-08-06 15:34:49 | DEBUG | noneffect_hit=92.7%, miss=7.3%
+2025-08-06 15:34:49 | INFO | Cache size : noneffect=20749983  |  Memory usage: 9158.91 MB
+2025-08-06 15:34:49 | INFO | Free space update time: 1.95 s
+2025-08-06 15:34:49 | INFO | 
+2025-08-06 15:34:49 | DEBUG | Processing scan 445/703
+2025-08-06 15:34:55 | DEBUG | noneffect_hit=92.4%, miss=7.6%
+2025-08-06 15:34:55 | INFO | Cache size : noneffect=20782910  |  Memory usage: 9173.16 MB
+2025-08-06 15:34:55 | INFO | Free space update time: 2.40 s
+2025-08-06 15:34:55 | INFO | 
+2025-08-06 15:34:55 | DEBUG | Processing scan 448/703
+2025-08-06 15:35:00 | DEBUG | noneffect_hit=92.5%, miss=7.5%
+2025-08-06 15:35:00 | INFO | Cache size : noneffect=20815703  |  Memory usage: 9181.41 MB
+2025-08-06 15:35:00 | INFO | Free space update time: 2.40 s
+2025-08-06 15:35:00 | INFO | 
+2025-08-06 15:35:00 | DEBUG | Processing scan 451/703
+2025-08-06 15:35:05 | DEBUG | noneffect_hit=93.8%, miss=6.2%
+2025-08-06 15:35:05 | INFO | Cache size : noneffect=20842699  |  Memory usage: 9191.21 MB
+2025-08-06 15:35:05 | INFO | Free space update time: 1.81 s
+2025-08-06 15:35:05 | INFO | 
+2025-08-06 15:35:05 | DEBUG | Processing scan 454/703
+2025-08-06 15:35:10 | DEBUG | noneffect_hit=92.7%, miss=7.3%
+2025-08-06 15:35:10 | INFO | Cache size : noneffect=20874735  |  Memory usage: 9199.21 MB
+2025-08-06 15:35:10 | INFO | Free space update time: 1.83 s
+2025-08-06 15:35:10 | INFO | 
+2025-08-06 15:35:10 | DEBUG | Processing scan 457/703
+2025-08-06 15:35:14 | DEBUG | noneffect_hit=91.8%, miss=8.2%
+2025-08-06 15:35:14 | INFO | Cache size : noneffect=20909003  |  Memory usage: 9205.20 MB
+2025-08-06 15:35:14 | INFO | Free space update time: 1.68 s
+2025-08-06 15:35:14 | INFO | 
+2025-08-06 15:35:14 | DEBUG | Processing scan 460/703
+2025-08-06 15:35:18 | DEBUG | noneffect_hit=90.7%, miss=9.3%
+2025-08-06 15:35:18 | INFO | Cache size : noneffect=20944298  |  Memory usage: 9214.45 MB
+2025-08-06 15:35:18 | INFO | Free space update time: 1.86 s
+2025-08-06 15:35:18 | INFO | 
+2025-08-06 15:35:18 | DEBUG | Processing scan 463/703
+2025-08-06 15:35:22 | DEBUG | noneffect_hit=89.4%, miss=10.6%
+2025-08-06 15:35:22 | INFO | Cache size : noneffect=20980206  |  Memory usage: 9220.46 MB
+2025-08-06 15:35:22 | INFO | Free space update time: 2.20 s
+2025-08-06 15:35:22 | INFO | 
+2025-08-06 15:35:22 | DEBUG | Processing scan 466/703
+2025-08-06 15:35:26 | DEBUG | noneffect_hit=88.9%, miss=11.1%
+2025-08-06 15:35:26 | INFO | Cache size : noneffect=21018949  |  Memory usage: 9242.21 MB
+2025-08-06 15:35:26 | INFO | Free space update time: 2.00 s
+2025-08-06 15:35:26 | INFO | 
+2025-08-06 15:35:26 | DEBUG | Processing scan 469/703
+2025-08-06 15:35:30 | DEBUG | noneffect_hit=89.1%, miss=10.9%
+2025-08-06 15:35:30 | INFO | Cache size : noneffect=21058761  |  Memory usage: 9233.44 MB
+2025-08-06 15:35:30 | INFO | Free space update time: 2.41 s
+2025-08-06 15:35:30 | INFO | 
+2025-08-06 15:35:30 | DEBUG | Processing scan 472/703
+2025-08-06 15:35:35 | DEBUG | noneffect_hit=90.1%, miss=9.9%
+2025-08-06 15:35:35 | INFO | Cache size : noneffect=21096662  |  Memory usage: 9260.69 MB
+2025-08-06 15:35:35 | INFO | Free space update time: 2.33 s
+2025-08-06 15:35:35 | INFO | 
+2025-08-06 15:35:35 | DEBUG | Processing scan 475/703
+2025-08-06 15:35:40 | DEBUG | noneffect_hit=90.6%, miss=9.4%
+2025-08-06 15:35:40 | INFO | Cache size : noneffect=21133498  |  Memory usage: 9281.69 MB
+2025-08-06 15:35:40 | INFO | Free space update time: 2.31 s
+2025-08-06 15:35:40 | INFO | 
+2025-08-06 15:35:40 | DEBUG | Processing scan 478/703
+2025-08-06 15:35:45 | DEBUG | noneffect_hit=90.7%, miss=9.3%
+2025-08-06 15:35:45 | INFO | Cache size : noneffect=21171454  |  Memory usage: 9271.59 MB
+2025-08-06 15:35:45 | INFO | Free space update time: 2.12 s
+2025-08-06 15:35:45 | INFO | 
+2025-08-06 15:35:45 | DEBUG | Processing scan 481/703
+2025-08-06 15:35:49 | DEBUG | noneffect_hit=90.7%, miss=9.3%
+2025-08-06 15:35:49 | INFO | Cache size : noneffect=21209269  |  Memory usage: 9299.09 MB
+2025-08-06 15:35:49 | INFO | Free space update time: 2.02 s
+2025-08-06 15:35:49 | INFO | 
+2025-08-06 15:35:49 | DEBUG | Processing scan 484/703
+2025-08-06 15:35:54 | DEBUG | noneffect_hit=91.4%, miss=8.6%
+2025-08-06 15:35:54 | INFO | Cache size : noneffect=21245434  |  Memory usage: 9307.84 MB
+2025-08-06 15:35:54 | INFO | Free space update time: 2.34 s
+2025-08-06 15:35:54 | INFO | 
+2025-08-06 15:35:54 | DEBUG | Processing scan 487/703
+2025-08-06 15:35:59 | DEBUG | noneffect_hit=90.8%, miss=9.2%
+2025-08-06 15:35:59 | INFO | Cache size : noneffect=21284398  |  Memory usage: 9323.43 MB
+2025-08-06 15:35:59 | INFO | Free space update time: 2.32 s
+2025-08-06 15:35:59 | INFO | 
+2025-08-06 15:35:59 | DEBUG | Processing scan 490/703
+2025-08-06 15:36:04 | DEBUG | noneffect_hit=89.7%, miss=10.3%
+2025-08-06 15:36:04 | INFO | Cache size : noneffect=21326771  |  Memory usage: 9333.68 MB
+2025-08-06 15:36:04 | INFO | Free space update time: 2.68 s
+2025-08-06 15:36:04 | INFO | 
+2025-08-06 15:36:04 | DEBUG | Processing scan 493/703
+2025-08-06 15:36:10 | DEBUG | noneffect_hit=89.0%, miss=11.0%
+2025-08-06 15:36:10 | INFO | Cache size : noneffect=21372783  |  Memory usage: 9345.61 MB
+2025-08-06 15:36:10 | INFO | Free space update time: 3.49 s
+2025-08-06 15:36:10 | INFO | 
+2025-08-06 15:36:10 | DEBUG | Processing scan 496/703
+2025-08-06 15:36:16 | DEBUG | noneffect_hit=88.8%, miss=11.2%
+2025-08-06 15:36:16 | INFO | Cache size : noneffect=21420338  |  Memory usage: 9357.36 MB
+2025-08-06 15:36:16 | INFO | Free space update time: 3.34 s
+2025-08-06 15:36:16 | INFO | 
+2025-08-06 15:36:16 | DEBUG | Processing scan 499/703
+2025-08-06 15:36:21 | DEBUG | noneffect_hit=88.3%, miss=11.7%
+2025-08-06 15:36:21 | INFO | Cache size : noneffect=21468368  |  Memory usage: 9375.13 MB
+2025-08-06 15:36:21 | INFO | Free space update time: 3.06 s
+2025-08-06 15:36:21 | INFO | 
+2025-08-06 15:36:21 | DEBUG | Processing scan 502/703
+2025-08-06 15:36:27 | DEBUG | noneffect_hit=87.5%, miss=12.5%
+2025-08-06 15:36:27 | INFO | Cache size : noneffect=21516259  |  Memory usage: 9386.88 MB
+2025-08-06 15:36:27 | INFO | Free space update time: 3.43 s
+2025-08-06 15:36:27 | INFO | 
+2025-08-06 15:36:27 | DEBUG | Processing scan 505/703
+2025-08-06 15:36:33 | DEBUG | noneffect_hit=87.5%, miss=12.5%
+2025-08-06 15:36:33 | INFO | Cache size : noneffect=21559327  |  Memory usage: 9442.12 MB
+2025-08-06 15:36:33 | INFO | Free space update time: 3.38 s
+2025-08-06 15:36:33 | INFO | 
+2025-08-06 15:36:33 | DEBUG | Processing scan 508/703
+2025-08-06 15:36:37 | DEBUG | noneffect_hit=87.5%, miss=12.5%
+2025-08-06 15:36:37 | INFO | Cache size : noneffect=21599667  |  Memory usage: 9378.41 MB
+2025-08-06 15:36:37 | INFO | Free space update time: 2.75 s
+2025-08-06 15:36:37 | INFO | 
+2025-08-06 15:36:37 | DEBUG | Processing scan 511/703
+2025-08-06 15:36:43 | DEBUG | noneffect_hit=85.4%, miss=14.6%
+2025-08-06 15:36:43 | INFO | Cache size : noneffect=21643804  |  Memory usage: 9396.72 MB
+2025-08-06 15:36:43 | INFO | Free space update time: 4.03 s
+2025-08-06 15:36:43 | INFO | 
+2025-08-06 15:36:43 | DEBUG | Processing scan 514/703
+2025-08-06 15:36:49 | DEBUG | noneffect_hit=84.6%, miss=15.4%
+2025-08-06 15:36:49 | INFO | Cache size : noneffect=21690379  |  Memory usage: 9472.07 MB
+2025-08-06 15:36:49 | INFO | Free space update time: 4.30 s
+2025-08-06 15:36:49 | INFO | 
+2025-08-06 15:36:49 | DEBUG | Processing scan 517/703
+2025-08-06 15:36:55 | DEBUG | noneffect_hit=85.2%, miss=14.8%
+2025-08-06 15:36:55 | INFO | Cache size : noneffect=21734051  |  Memory usage: 9431.09 MB
+2025-08-06 15:36:55 | INFO | Free space update time: 4.09 s
+2025-08-06 15:36:55 | INFO | 
+2025-08-06 15:36:55 | DEBUG | Processing scan 520/703
+2025-08-06 15:37:01 | DEBUG | noneffect_hit=85.8%, miss=14.2%
+2025-08-06 15:37:01 | INFO | Cache size : noneffect=21774962  |  Memory usage: 9439.91 MB
+2025-08-06 15:37:01 | INFO | Free space update time: 4.15 s
+2025-08-06 15:37:01 | INFO | 
+2025-08-06 15:37:01 | DEBUG | Processing scan 523/703
+2025-08-06 15:37:07 | DEBUG | noneffect_hit=85.4%, miss=14.6%
+2025-08-06 15:37:07 | INFO | Cache size : noneffect=21816970  |  Memory usage: 9450.41 MB
+2025-08-06 15:37:07 | INFO | Free space update time: 3.87 s
+2025-08-06 15:37:07 | INFO | 
+2025-08-06 15:37:07 | DEBUG | Processing scan 526/703
+2025-08-06 15:37:12 | DEBUG | noneffect_hit=87.4%, miss=12.6%
+2025-08-06 15:37:12 | INFO | Cache size : noneffect=21855750  |  Memory usage: 9465.91 MB
+2025-08-06 15:37:12 | INFO | Free space update time: 3.21 s
+2025-08-06 15:37:12 | INFO | 
+2025-08-06 15:37:12 | DEBUG | Processing scan 529/703
+2025-08-06 15:37:19 | DEBUG | noneffect_hit=85.5%, miss=14.5%
+2025-08-06 15:37:19 | INFO | Cache size : noneffect=21907611  |  Memory usage: 9496.91 MB
+2025-08-06 15:37:19 | INFO | Free space update time: 4.75 s
+2025-08-06 15:37:19 | INFO | 
+2025-08-06 15:37:19 | DEBUG | Processing scan 532/703
+2025-08-06 15:37:26 | DEBUG | noneffect_hit=85.6%, miss=14.4%
+2025-08-06 15:37:26 | INFO | Cache size : noneffect=21965136  |  Memory usage: 9576.16 MB
+2025-08-06 15:37:26 | INFO | Free space update time: 5.64 s
+2025-08-06 15:37:26 | INFO | 
+2025-08-06 15:37:26 | DEBUG | Processing scan 535/703
+2025-08-06 15:37:34 | DEBUG | noneffect_hit=87.7%, miss=12.3%
+2025-08-06 15:37:34 | INFO | Cache size : noneffect=22017448  |  Memory usage: 9598.83 MB
+2025-08-06 15:37:34 | INFO | Free space update time: 5.10 s
+2025-08-06 15:37:34 | INFO | 
+2025-08-06 15:37:34 | DEBUG | Processing scan 538/703
+2025-08-06 15:37:41 | DEBUG | noneffect_hit=85.8%, miss=14.2%
+2025-08-06 15:37:41 | INFO | Cache size : noneffect=22079029  |  Memory usage: 9535.27 MB
+2025-08-06 15:37:41 | INFO | Free space update time: 5.32 s
+2025-08-06 15:37:41 | INFO | 
+2025-08-06 15:37:41 | DEBUG | Processing scan 541/703
+2025-08-06 15:37:50 | DEBUG | noneffect_hit=84.5%, miss=15.5%
+2025-08-06 15:37:50 | INFO | Cache size : noneffect=22149876  |  Memory usage: 9645.43 MB
+2025-08-06 15:37:50 | INFO | Free space update time: 5.85 s
+2025-08-06 15:37:50 | INFO | 
+2025-08-06 15:37:50 | DEBUG | Processing scan 544/703
+2025-08-06 15:38:00 | DEBUG | noneffect_hit=83.2%, miss=16.8%
+2025-08-06 15:38:00 | INFO | Cache size : noneffect=22233137  |  Memory usage: 9591.77 MB
+2025-08-06 15:38:00 | INFO | Free space update time: 7.58 s
+2025-08-06 15:38:00 | INFO | 
+2025-08-06 15:38:00 | DEBUG | Processing scan 547/703
+2025-08-06 15:38:10 | DEBUG | noneffect_hit=82.2%, miss=17.8%
+2025-08-06 15:38:10 | INFO | Cache size : noneffect=22322839  |  Memory usage: 9710.15 MB
+2025-08-06 15:38:10 | INFO | Free space update time: 7.55 s
+2025-08-06 15:38:10 | INFO | 
+2025-08-06 15:38:10 | DEBUG | Processing scan 550/703
+2025-08-06 15:38:23 | DEBUG | noneffect_hit=83.3%, miss=16.7%
+2025-08-06 15:38:23 | INFO | Cache size : noneffect=39464  |  Memory usage: 3502.32 MB
+2025-08-06 15:38:23 | INFO | Free space update time: 10.92 s
+2025-08-06 15:38:23 | INFO | 
+2025-08-06 15:38:23 | DEBUG | Processing scan 553/703
+2025-08-06 15:38:53 | DEBUG | noneffect_hit=0.5%, miss=99.5%
+2025-08-06 15:38:53 | INFO | Cache size : noneffect=500427  |  Memory usage: 3353.67 MB
+2025-08-06 15:38:53 | INFO | Free space update time: 29.04 s
+2025-08-06 15:38:53 | INFO | 
+2025-08-06 15:38:53 | DEBUG | Processing scan 556/703
+2025-08-06 15:39:21 | DEBUG | noneffect_hit=22.0%, miss=78.0%
+2025-08-06 15:39:21 | INFO | Cache size : noneffect=884514  |  Memory usage: 3439.23 MB
+2025-08-06 15:39:21 | INFO | Free space update time: 26.33 s
+2025-08-06 15:39:21 | INFO | 
+2025-08-06 15:39:21 | DEBUG | Processing scan 559/703
+2025-08-06 15:39:44 | DEBUG | noneffect_hit=35.7%, miss=64.3%
+2025-08-06 15:39:44 | INFO | Cache size : noneffect=1183276  |  Memory usage: 3512.49 MB
+2025-08-06 15:39:44 | INFO | Free space update time: 20.94 s
+2025-08-06 15:39:44 | INFO | 
+2025-08-06 15:39:44 | DEBUG | Processing scan 562/703
+2025-08-06 15:40:05 | DEBUG | noneffect_hit=45.4%, miss=54.6%
+2025-08-06 15:40:05 | INFO | Cache size : noneffect=1422976  |  Memory usage: 3570.75 MB
+2025-08-06 15:40:05 | INFO | Free space update time: 19.40 s
+2025-08-06 15:40:05 | INFO | 
+2025-08-06 15:40:05 | DEBUG | Processing scan 565/703
+2025-08-06 15:40:23 | DEBUG | noneffect_hit=51.6%, miss=48.4%
+2025-08-06 15:40:23 | INFO | Cache size : noneffect=1629043  |  Memory usage: 3620.27 MB
+2025-08-06 15:40:23 | INFO | Free space update time: 15.34 s
+2025-08-06 15:40:23 | INFO | 
+2025-08-06 15:40:23 | DEBUG | Processing scan 568/703
+2025-08-06 15:40:37 | DEBUG | noneffect_hit=57.0%, miss=43.0%
+2025-08-06 15:40:37 | INFO | Cache size : noneffect=1810743  |  Memory usage: 3664.28 MB
+2025-08-06 15:40:37 | INFO | Free space update time: 12.45 s
+2025-08-06 15:40:37 | INFO | 
+2025-08-06 15:40:37 | DEBUG | Processing scan 571/703
+2025-08-06 15:40:52 | DEBUG | noneffect_hit=56.2%, miss=43.8%
+2025-08-06 15:40:52 | INFO | Cache size : noneffect=1994275  |  Memory usage: 3709.53 MB
+2025-08-06 15:40:52 | INFO | Free space update time: 13.07 s
+2025-08-06 15:40:52 | INFO | 
+2025-08-06 15:40:52 | DEBUG | Processing scan 574/703
+2025-08-06 15:41:10 | DEBUG | noneffect_hit=53.1%, miss=46.9%
+2025-08-06 15:41:10 | INFO | Cache size : noneffect=2199855  |  Memory usage: 3759.54 MB
+2025-08-06 15:41:10 | INFO | Free space update time: 14.73 s
+2025-08-06 15:41:10 | INFO | 
+2025-08-06 15:41:10 | DEBUG | Processing scan 577/703
+2025-08-06 15:41:26 | DEBUG | noneffect_hit=51.9%, miss=48.1%
+2025-08-06 15:41:26 | INFO | Cache size : noneffect=2408647  |  Memory usage: 3814.04 MB
+2025-08-06 15:41:26 | INFO | Free space update time: 14.05 s
+2025-08-06 15:41:26 | INFO | 
+2025-08-06 15:41:26 | DEBUG | Processing scan 580/703
+2025-08-06 15:41:40 | DEBUG | noneffect_hit=53.8%, miss=46.2%
+2025-08-06 15:41:40 | INFO | Cache size : noneffect=2612348  |  Memory usage: 3863.54 MB
+2025-08-06 15:41:40 | INFO | Free space update time: 12.53 s
+2025-08-06 15:41:40 | INFO | 
+2025-08-06 15:41:40 | DEBUG | Processing scan 583/703
+2025-08-06 15:41:55 | DEBUG | noneffect_hit=56.9%, miss=43.1%
+2025-08-06 15:41:55 | INFO | Cache size : noneffect=2812487  |  Memory usage: 4072.14 MB
+2025-08-06 15:41:55 | INFO | Free space update time: 12.25 s
+2025-08-06 15:41:55 | INFO | 
+2025-08-06 15:41:55 | DEBUG | Processing scan 586/703
+2025-08-06 15:42:08 | DEBUG | noneffect_hit=61.1%, miss=38.9%
+2025-08-06 15:42:08 | INFO | Cache size : noneffect=2996941  |  Memory usage: 4119.31 MB
+2025-08-06 15:42:08 | INFO | Free space update time: 11.20 s
+2025-08-06 15:42:08 | INFO | 
+2025-08-06 15:42:08 | DEBUG | Processing scan 589/703
+2025-08-06 15:42:21 | DEBUG | noneffect_hit=61.3%, miss=38.7%
+2025-08-06 15:42:21 | INFO | Cache size : noneffect=3192946  |  Memory usage: 4166.32 MB
+2025-08-06 15:42:21 | INFO | Free space update time: 10.43 s
+2025-08-06 15:42:21 | INFO | 
+2025-08-06 15:42:21 | DEBUG | Processing scan 592/703
+2025-08-06 15:42:34 | DEBUG | noneffect_hit=62.7%, miss=37.3%
+2025-08-06 15:42:34 | INFO | Cache size : noneffect=3374712  |  Memory usage: 4212.83 MB
+2025-08-06 15:42:34 | INFO | Free space update time: 10.74 s
+2025-08-06 15:42:34 | INFO | 
+2025-08-06 15:42:34 | DEBUG | Processing scan 595/703
+2025-08-06 15:42:46 | DEBUG | noneffect_hit=64.3%, miss=35.7%
+2025-08-06 15:42:46 | INFO | Cache size : noneffect=3547889  |  Memory usage: 4255.61 MB
+2025-08-06 15:42:46 | INFO | Free space update time: 9.31 s
+2025-08-06 15:42:46 | INFO | 
+2025-08-06 15:42:46 | DEBUG | Processing scan 598/703
+2025-08-06 15:42:57 | DEBUG | noneffect_hit=66.6%, miss=33.4%
+2025-08-06 15:42:57 | INFO | Cache size : noneffect=3705053  |  Memory usage: 4294.62 MB
+2025-08-06 15:42:57 | INFO | Free space update time: 8.86 s
+2025-08-06 15:42:57 | INFO | 
+2025-08-06 15:42:57 | DEBUG | Processing scan 601/703
+2025-08-06 15:43:07 | DEBUG | noneffect_hit=68.5%, miss=31.5%
+2025-08-06 15:43:07 | INFO | Cache size : noneffect=3849505  |  Memory usage: 4329.62 MB
+2025-08-06 15:43:07 | INFO | Free space update time: 7.40 s
+2025-08-06 15:43:07 | INFO | 
+2025-08-06 15:43:07 | DEBUG | Processing scan 604/703
+2025-08-06 15:43:16 | DEBUG | noneffect_hit=71.8%, miss=28.2%
+2025-08-06 15:43:16 | INFO | Cache size : noneffect=3973273  |  Memory usage: 4360.14 MB
+2025-08-06 15:43:16 | INFO | Free space update time: 6.44 s
+2025-08-06 15:43:16 | INFO | 
+2025-08-06 15:43:16 | DEBUG | Processing scan 607/703
+2025-08-06 15:43:23 | DEBUG | noneffect_hit=75.4%, miss=24.6%
+2025-08-06 15:43:23 | INFO | Cache size : noneffect=4077897  |  Memory usage: 4385.41 MB
+2025-08-06 15:43:23 | INFO | Free space update time: 5.59 s
+2025-08-06 15:43:23 | INFO | 
+2025-08-06 15:43:23 | DEBUG | Processing scan 610/703
+2025-08-06 15:43:32 | DEBUG | noneffect_hit=78.2%, miss=21.8%
+2025-08-06 15:43:32 | INFO | Cache size : noneffect=4174445  |  Memory usage: 4408.41 MB
+2025-08-06 15:43:32 | INFO | Free space update time: 5.97 s
+2025-08-06 15:43:32 | INFO | 
+2025-08-06 15:43:32 | DEBUG | Processing scan 613/703
+2025-08-06 15:43:40 | DEBUG | noneffect_hit=81.1%, miss=18.9%
+2025-08-06 15:43:40 | INFO | Cache size : noneffect=4257660  |  Memory usage: 4429.42 MB
+2025-08-06 15:43:40 | INFO | Free space update time: 5.16 s
+2025-08-06 15:43:40 | INFO | 
+2025-08-06 15:43:40 | DEBUG | Processing scan 616/703
+2025-08-06 15:43:47 | DEBUG | noneffect_hit=82.7%, miss=17.3%
+2025-08-06 15:43:47 | INFO | Cache size : noneffect=4339690  |  Memory usage: 4447.69 MB
+2025-08-06 15:43:47 | INFO | Free space update time: 4.87 s
+2025-08-06 15:43:47 | INFO | 
+2025-08-06 15:43:47 | DEBUG | Processing scan 619/703
+2025-08-06 15:43:54 | DEBUG | noneffect_hit=85.9%, miss=14.1%
+2025-08-06 15:43:54 | INFO | Cache size : noneffect=4409230  |  Memory usage: 4463.95 MB
+2025-08-06 15:43:54 | INFO | Free space update time: 4.59 s
+2025-08-06 15:43:54 | INFO | 
+2025-08-06 15:43:54 | DEBUG | Processing scan 622/703
+2025-08-06 15:44:01 | DEBUG | noneffect_hit=87.1%, miss=12.9%
+2025-08-06 15:44:01 | INFO | Cache size : noneffect=4471087  |  Memory usage: 4479.21 MB
+2025-08-06 15:44:01 | INFO | Free space update time: 4.34 s
+2025-08-06 15:44:01 | INFO | 
+2025-08-06 15:44:01 | DEBUG | Processing scan 625/703
+2025-08-06 15:44:08 | DEBUG | noneffect_hit=86.8%, miss=13.2%
+2025-08-06 15:44:08 | INFO | Cache size : noneffect=4534666  |  Memory usage: 4494.71 MB
+2025-08-06 15:44:08 | INFO | Free space update time: 4.36 s
+2025-08-06 15:44:08 | INFO | 
+2025-08-06 15:44:08 | DEBUG | Processing scan 628/703
+2025-08-06 15:44:16 | DEBUG | noneffect_hit=86.4%, miss=13.6%
+2025-08-06 15:44:16 | INFO | Cache size : noneffect=4597310  |  Memory usage: 4510.48 MB
+2025-08-06 15:44:16 | INFO | Free space update time: 4.54 s
+2025-08-06 15:44:16 | INFO | 
+2025-08-06 15:44:16 | DEBUG | Processing scan 631/703
+2025-08-06 15:44:23 | DEBUG | noneffect_hit=84.7%, miss=15.3%
+2025-08-06 15:44:23 | INFO | Cache size : noneffect=4665634  |  Memory usage: 4527.75 MB
+2025-08-06 15:44:23 | INFO | Free space update time: 4.84 s
+2025-08-06 15:44:23 | INFO | 
+2025-08-06 15:44:23 | DEBUG | Processing scan 634/703
+2025-08-06 15:44:31 | DEBUG | noneffect_hit=82.9%, miss=17.1%
+2025-08-06 15:44:31 | INFO | Cache size : noneffect=4741103  |  Memory usage: 4546.51 MB
+2025-08-06 15:44:31 | INFO | Free space update time: 5.41 s
+2025-08-06 15:44:31 | INFO | 
+2025-08-06 15:44:31 | DEBUG | Processing scan 637/703
+2025-08-06 15:44:39 | DEBUG | noneffect_hit=84.2%, miss=15.8%
+2025-08-06 15:44:39 | INFO | Cache size : noneffect=4813769  |  Memory usage: 4563.77 MB
+2025-08-06 15:44:39 | INFO | Free space update time: 5.08 s
+2025-08-06 15:44:39 | INFO | 
+2025-08-06 15:44:39 | DEBUG | Processing scan 640/703
+2025-08-06 15:44:45 | DEBUG | noneffect_hit=89.2%, miss=10.8%
+2025-08-06 15:44:45 | INFO | Cache size : noneffect=4864160  |  Memory usage: 4576.53 MB
+2025-08-06 15:44:45 | INFO | Free space update time: 3.44 s
+2025-08-06 15:44:45 | INFO | 
+2025-08-06 15:44:45 | DEBUG | Processing scan 643/703
+2025-08-06 15:44:51 | DEBUG | noneffect_hit=90.5%, miss=9.5%
+2025-08-06 15:44:51 | INFO | Cache size : noneffect=4912092  |  Memory usage: 4588.54 MB
+2025-08-06 15:44:51 | INFO | Free space update time: 3.21 s
+2025-08-06 15:44:51 | INFO | 
+2025-08-06 15:44:51 | DEBUG | Processing scan 646/703
+2025-08-06 15:44:57 | DEBUG | noneffect_hit=91.3%, miss=8.7%
+2025-08-06 15:44:57 | INFO | Cache size : noneffect=4959740  |  Memory usage: 4599.80 MB
+2025-08-06 15:44:57 | INFO | Free space update time: 3.47 s
+2025-08-06 15:44:57 | INFO | 
+2025-08-06 15:44:57 | DEBUG | Processing scan 649/703
+2025-08-06 15:45:03 | DEBUG | noneffect_hit=92.9%, miss=7.1%
+2025-08-06 15:45:03 | INFO | Cache size : noneffect=4998548  |  Memory usage: 4609.08 MB
+2025-08-06 15:45:03 | INFO | Free space update time: 2.80 s
+2025-08-06 15:45:03 | INFO | 
+2025-08-06 15:45:03 | DEBUG | Processing scan 652/703
+2025-08-06 15:45:09 | DEBUG | noneffect_hit=93.3%, miss=6.7%
+2025-08-06 15:45:09 | INFO | Cache size : noneffect=5033425  |  Memory usage: 4617.35 MB
+2025-08-06 15:45:09 | INFO | Free space update time: 2.94 s
+2025-08-06 15:45:09 | INFO | 
+2025-08-06 15:45:09 | DEBUG | Processing scan 655/703
+2025-08-06 15:45:14 | DEBUG | noneffect_hit=91.4%, miss=8.6%
+2025-08-06 15:45:14 | INFO | Cache size : noneffect=5075144  |  Memory usage: 4627.85 MB
+2025-08-06 15:45:14 | INFO | Free space update time: 3.16 s
+2025-08-06 15:45:14 | INFO | 
+2025-08-06 15:45:14 | DEBUG | Processing scan 658/703
+2025-08-06 15:45:21 | DEBUG | noneffect_hit=90.2%, miss=9.8%
+2025-08-06 15:45:21 | INFO | Cache size : noneffect=5123379  |  Memory usage: 4639.61 MB
+2025-08-06 15:45:21 | INFO | Free space update time: 3.86 s
+2025-08-06 15:45:21 | INFO | 
+2025-08-06 15:45:21 | DEBUG | Processing scan 661/703
+2025-08-06 15:45:28 | DEBUG | noneffect_hit=88.8%, miss=11.2%
+2025-08-06 15:45:28 | INFO | Cache size : noneffect=5178276  |  Memory usage: 4653.38 MB
+2025-08-06 15:45:28 | INFO | Free space update time: 4.71 s
+2025-08-06 15:45:28 | INFO | 
+2025-08-06 15:45:28 | DEBUG | Processing scan 664/703
+2025-08-06 15:45:35 | DEBUG | noneffect_hit=88.4%, miss=11.6%
+2025-08-06 15:45:35 | INFO | Cache size : noneffect=5233102  |  Memory usage: 4666.88 MB
+2025-08-06 15:45:35 | INFO | Free space update time: 4.43 s
+2025-08-06 15:45:35 | INFO | 
+2025-08-06 15:45:35 | DEBUG | Processing scan 667/703
+2025-08-06 15:45:42 | DEBUG | noneffect_hit=85.4%, miss=14.6%
+2025-08-06 15:45:42 | INFO | Cache size : noneffect=5297610  |  Memory usage: 4683.14 MB
+2025-08-06 15:45:42 | INFO | Free space update time: 5.15 s
+2025-08-06 15:45:42 | INFO | 
+2025-08-06 15:45:42 | DEBUG | Processing scan 670/703
+2025-08-06 15:45:51 | DEBUG | noneffect_hit=83.2%, miss=16.8%
+2025-08-06 15:45:51 | INFO | Cache size : noneffect=5371579  |  Memory usage: 4701.65 MB
+2025-08-06 15:45:51 | INFO | Free space update time: 6.17 s
+2025-08-06 15:45:51 | INFO | 
+2025-08-06 15:45:51 | DEBUG | Processing scan 673/703
+2025-08-06 15:46:01 | DEBUG | noneffect_hit=78.6%, miss=21.4%
+2025-08-06 15:46:01 | INFO | Cache size : noneffect=5467303  |  Memory usage: 4726.15 MB
+2025-08-06 15:46:01 | INFO | Free space update time: 7.47 s
+2025-08-06 15:46:01 | INFO | 
+2025-08-06 15:46:01 | DEBUG | Processing scan 676/703
+2025-08-06 15:46:13 | DEBUG | noneffect_hit=73.3%, miss=26.7%
+2025-08-06 15:46:13 | INFO | Cache size : noneffect=5595687  |  Memory usage: 4917.41 MB
+2025-08-06 15:46:13 | INFO | Free space update time: 10.34 s
+2025-08-06 15:46:13 | INFO | 
+2025-08-06 15:46:13 | DEBUG | Processing scan 679/703
+2025-08-06 15:46:27 | DEBUG | noneffect_hit=67.8%, miss=32.2%
+2025-08-06 15:46:27 | INFO | Cache size : noneffect=5756156  |  Memory usage: 4958.17 MB
+2025-08-06 15:46:27 | INFO | Free space update time: 11.52 s
+2025-08-06 15:46:27 | INFO | 
+2025-08-06 15:46:27 | DEBUG | Processing scan 682/703
+2025-08-06 15:46:42 | DEBUG | noneffect_hit=63.1%, miss=36.9%
+2025-08-06 15:46:42 | INFO | Cache size : noneffect=5937056  |  Memory usage: 5004.43 MB
+2025-08-06 15:46:42 | INFO | Free space update time: 13.03 s
+2025-08-06 15:46:42 | INFO | 
+2025-08-06 15:46:42 | DEBUG | Processing scan 685/703
+2025-08-06 15:46:58 | DEBUG | noneffect_hit=58.4%, miss=41.6%
+2025-08-06 15:46:58 | INFO | Cache size : noneffect=6134062  |  Memory usage: 5053.20 MB
+2025-08-06 15:46:58 | INFO | Free space update time: 13.11 s
+2025-08-06 15:46:58 | INFO | 
+2025-08-06 15:46:58 | DEBUG | Processing scan 688/703
+2025-08-06 15:47:12 | DEBUG | noneffect_hit=60.3%, miss=39.7%
+2025-08-06 15:47:12 | INFO | Cache size : noneffect=6319540  |  Memory usage: 5098.45 MB
+2025-08-06 15:47:12 | INFO | Free space update time: 12.20 s
+2025-08-06 15:47:12 | INFO | 
+2025-08-06 15:47:12 | DEBUG | Processing scan 691/703
+2025-08-06 15:47:25 | DEBUG | noneffect_hit=64.3%, miss=35.7%
+2025-08-06 15:47:25 | INFO | Cache size : noneffect=6477550  |  Memory usage: 5136.71 MB
+2025-08-06 15:47:25 | INFO | Free space update time: 10.37 s
+2025-08-06 15:47:25 | INFO | 
+2025-08-06 15:47:25 | DEBUG | Processing scan 694/703
+2025-08-06 15:47:37 | DEBUG | noneffect_hit=65.5%, miss=34.5%
+2025-08-06 15:47:37 | INFO | Cache size : noneffect=6620222  |  Memory usage: 5172.47 MB
+2025-08-06 15:47:37 | INFO | Free space update time: 10.17 s
+2025-08-06 15:47:37 | INFO | 
+2025-08-06 15:47:37 | DEBUG | Processing scan 697/703
+2025-08-06 15:47:48 | DEBUG | noneffect_hit=64.8%, miss=35.2%
+2025-08-06 15:47:48 | INFO | Cache size : noneffect=6765633  |  Memory usage: 5207.48 MB
+2025-08-06 15:47:48 | INFO | Free space update time: 9.59 s
+2025-08-06 15:47:48 | INFO | 
+2025-08-06 15:47:48 | DEBUG | Processing scan 700/703
+2025-08-06 15:48:01 | DEBUG | noneffect_hit=66.1%, miss=33.9%
+2025-08-06 15:48:01 | INFO | Cache size : noneffect=6889531  |  Memory usage: 5238.99 MB
+2025-08-06 15:48:01 | INFO | Free space update time: 10.53 s
+2025-08-06 15:48:01 | INFO | 
+2025-08-06 15:48:01 | DEBUG | Processing scan 703/703
+2025-08-06 15:48:13 | DEBUG | noneffect_hit=66.2%, miss=33.8%
+2025-08-06 15:48:13 | INFO | Cache size : noneffect=7004299  |  Memory usage: 5266.74 MB
+2025-08-06 15:48:13 | INFO | Free space update time: 9.80 s
+2025-08-06 15:48:13 | INFO | 
+

@@ -4,6 +4,7 @@ import open3d as o3d
 from scipy.spatial import KDTree
 import matplotlib.cm as cm
 from typing import List, Optional
+from utils.logger import logger
 
 
 class SessionMap():
@@ -72,20 +73,26 @@ class SessionMap():
         o3d.visualization.draw_geometries([session_map])
 
     def save(self, path: str, is_global: bool):
+        logger.info("trying to save")
         if is_global:
             session_map_points_path = os.path.join(path, "lifelong_map.pcd")
             session_map_eph_path = os.path.join(path, "global_ephemerality.npy")
         else:
             session_map_points_path = os.path.join(path, "cleaned_session_map.pcd")
             session_map_eph_path = os.path.join(path, "local_ephemerality.npy")
-        
+        logger.info("path checked")
         # save the map as a point cloud
+        
         if self.map is None:
             raise ValueError("Session map is None. Cannot save.")
         else:
+            logger.info("saving sessionmap")
             session_map = o3d.geometry.PointCloud()
             session_map.points = o3d.utility.Vector3dVector(self.map)
+            logger.info("saving sessionmap2")
             o3d.io.write_point_cloud(session_map_points_path, session_map)
+            logger.info("saving sessionmap3")
+
 
         # save the ephemerality as a numpy array
         if self.eph is None:

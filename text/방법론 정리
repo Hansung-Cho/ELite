@@ -1,0 +1,21 @@
+1. 그냥 초기화  [38분 32초]
+2. 포인트 갯수가 일정 수준 초과하면 Ordered Dict로 삭제 [26분 24초] 
+3. 좌표 기준 먼것부터 삭제
+4. 1번 방식을 ordered dict로
+
+
+
+- voxel size 0.1로 해봐야됨 그러면 1,2,3 비교가 달라질 수도 있음
+- ordered dict로 해도 중간에 killed 나는 이유
+
+과정 끝나면 dict 초기화
+
+
+
+1. voxel size 0.1로 다시 1,2,3 비교
+2. 그 중에 하나 골라서 결과 내보기
+3. 파라미터 변화시켜보면서 (voxel size, stride, max_memory, max_num_points) 시각화 자료 정리
+4. 
+
+
+

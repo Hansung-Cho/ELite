@@ -69,7 +69,7 @@ class Session:
 
         scans = []
         for i, pose in enumerate(poses):
-            path = os.path.join(scans_dir, f'{i:06d}.pcd')
+            path = os.path.join(scans_dir, f'{i+4390:06d}.pcd')
             if not os.path.exists(path):
                 raise FileNotFoundError(f"Missing scan file: {path}")
             scans.append(Scan(pose, path))

@@ -3,7 +3,7 @@ import sys
 import yaml
 
 from alignment.map_zipper import MapZipper
-from dynamic_removal.map_remover import MapRemover
+from dynamic_removal.map_remover2 import MapRemover
 from map_update.map_updater import MapUpdater
 
 from utils.session import Session
